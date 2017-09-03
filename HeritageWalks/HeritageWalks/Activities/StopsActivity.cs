@@ -57,7 +57,7 @@ namespace HeritageWalks.Activities
         {
             TabAdapter adapter = new TabAdapter(SupportFragmentManager);
             adapter.AddFragment(new StopFragment(), "Walks");
-            adapter.AddFragment(new Fragment3(), "Map");
+            adapter.AddFragment(new MapsFragment(), "Map");
 
             viewPager.Adapter = adapter;
         }

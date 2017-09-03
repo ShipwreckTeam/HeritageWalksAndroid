@@ -7,7 +7,7 @@ using SupportFragment = Android.Support.V4.App.Fragment;
 
 namespace HeritageWalks.Fragments
 {
-    public class Fragment3 : SupportFragment, IOnMapReadyCallback
+    public class MapsFragment : SupportFragment, IOnMapReadyCallback
     {
         private GoogleMap _Map;
 
@@ -31,7 +31,7 @@ namespace HeritageWalks.Fragments
             // Use this to return your custom view for this Fragment
             // return inflater.Inflate(Resource.Layout.YourFragment, container, false);
 
-            View view = inflater.Inflate(Resource.Layout.Fragment3, container, false);
+            View view = inflater.Inflate(Resource.Layout.MapsFragment, container, false);
             SetUpMap();
             return view;
         }
