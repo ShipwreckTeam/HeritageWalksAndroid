@@ -14,19 +14,19 @@ using System.Collections.Generic;
 using Java.Lang;
 using HeritageWalks.Fragments;
 
-namespace HeritageWalks
+namespace HeritageWalks.Activities
 {
-    [Activity(Label = "Heritage Walks", MainLauncher = true, Icon = "@drawable/icon", Theme = "@style/Theme.HeritageWalks")]
-    public class MainActivity : AppCompatActivity
+    [Activity(Label = "Heritage Walks", Theme = "@style/Theme.HeritageWalks")]
+    public class StopsActivity : AppCompatActivity
     {
         private DrawerLayout _drawerLayout;
 
-        protected override void OnCreate(Bundle bundle)
+        protected override void OnCreate(Bundle savedInstanceState)
         {
-            base.OnCreate(bundle);
+            base.OnCreate(savedInstanceState);
 
-            // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.Main);
+            // Create your application here
+            SetContentView(Resource.Layout.Stops);
 
             SupportToolbar toolBar = FindViewById<SupportToolbar>(Resource.Id.toolBar);
             SetSupportActionBar(toolBar);
@@ -51,13 +51,13 @@ namespace HeritageWalks
             SetUpViewPager(viewPager);
 
             tabs.SetupWithViewPager(viewPager);
-
         }
 
-        private void SetUpViewPager(ViewPager viewPager)
+        public void SetUpViewPager(ViewPager viewPager)
         {
             TabAdapter adapter = new TabAdapter(SupportFragmentManager);
-            adapter.AddFragment(new TrailFragment(), "");
+            adapter.AddFragment(new StopFragment(), "Walks");
+            adapter.AddFragment(new Fragment3(), "Map");
 
             viewPager.Adapter = adapter;
         }
@@ -77,7 +77,7 @@ namespace HeritageWalks
 
         }
 
-        private void SetUpDrawerContent(NavigationView navigationView)
+        public void SetUpDrawerContent(NavigationView navigationView)
         {
             navigationView.NavigationItemSelected += (object sender, NavigationView.NavigationItemSelectedEventArgs e) =>
             {
@@ -124,4 +124,3 @@ namespace HeritageWalks
         }
     }
 }
-
