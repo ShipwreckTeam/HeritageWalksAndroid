@@ -111,7 +111,7 @@
     <Compile Include="Activities\StopsActivity.cs" />
     <Compile Include="Data\Stop.cs" />
     <Compile Include="Data\Trail.cs" />
-    <Compile Include="Fragments\Fragment3.cs" />
+    <Compile Include="Fragments\MapsFragment.cs" />
     <Compile Include="Fragments\StopFragment.cs" />
     <Compile Include="Fragments\TrailFragment.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
@@ -143,7 +143,7 @@
     <AndroidResource Include="Resources\layout\stop_row.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\layout\Fragment3.axml">
+    <AndroidResource Include="Resources\layout\MapsFragment.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
