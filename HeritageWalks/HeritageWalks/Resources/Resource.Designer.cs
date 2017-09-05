@@ -2540,8 +2540,8 @@ namespace HeritageWalks
 			// aapt resource value: 0x7f0a001e
 			public const int disableHome = 2131361822;
 			
-			// aapt resource value: 0x7f0a008c
-			public const int drawer_layout = 2131361932;
+			// aapt resource value: 0x7f0a008b
+			public const int drawer_layout = 2131361931;
 			
 			// aapt resource value: 0x7f0a0070
 			public const int edit_query = 2131361904;
@@ -2630,8 +2630,8 @@ namespace HeritageWalks
 			// aapt resource value: 0x7f0a0052
 			public const int list_item = 2131361874;
 			
-			// aapt resource value: 0x7f0a008b
-			public const int map = 2131361931;
+			// aapt resource value: 0x7f0a008d
+			public const int map = 2131361933;
 			
 			// aapt resource value: 0x7f0a00b2
 			public const int masked = 2131361970;
@@ -2660,8 +2660,8 @@ namespace HeritageWalks
 			// aapt resource value: 0x7f0a00b5
 			public const int nav_nearby_walks = 2131361973;
 			
-			// aapt resource value: 0x7f0a008d
-			public const int nav_view = 2131361933;
+			// aapt resource value: 0x7f0a008c
+			public const int nav_view = 2131361932;
 			
 			// aapt resource value: 0x7f0a0085
 			public const int navigation_header_container = 2131361925;
@@ -3107,10 +3107,10 @@ namespace HeritageWalks
 			public const int design_text_input_password_icon = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int Fragment3 = 2130903081;
+			public const int Main = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int Main = 2130903082;
+			public const int MapsFragment = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
 			public const int notification_action = 2130903083;
