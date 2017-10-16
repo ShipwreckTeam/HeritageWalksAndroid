@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">HeritageWalks</string>
+  <string name ="google_maps_key">AIzaSyDa4vMGXIieBUN1vo_AhTdzP6_UMFusk-8</string>
+  <color name="orange">#ff6600</color>
+  <color name="purple">#944dff</color>
+  <color name="green">#8cff1a</color>
+</resources>

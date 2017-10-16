@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+  <style name="Theme.HeritageWalks" parent="Base.Theme.HeritageWalks">
+    <item name="android:statusBarColor">@android:color/transparent</item>
+    <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    <item name="android:windowTranslucentStatus">true</item>
+  </style>
+
+  <style name="Theme.HeritageWalks2" parent="Base.Theme.HeritageWalks">
+    <item name="android:statusBarColor">@android:color/transparent</item>
+    <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    <item name="android:windowTranslucentStatus">true</item>
+    <item name="colorPrimary">#008020</item>
+    <item name="colorPrimaryDark">@android:color/transparent</item>
+  </style>
+</resources>
+
