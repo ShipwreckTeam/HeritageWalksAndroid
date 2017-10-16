@@ -1,8 +1,11 @@
-﻿using Android.Gms.Maps;
+﻿using Android.App;
+using Android.Content;
+using Android.Gms.Maps;
 using Android.Gms.Maps.Model;
 using Android.OS;
 using Android.Views;
 using SupportFragment = Android.Support.V4.App.Fragment;
+using FragmentTransaction = Android.Support.V4.App.FragmentTransaction;
 
 
 namespace HeritageWalks.Fragments
@@ -20,10 +23,25 @@ namespace HeritageWalks.Fragments
 
         private void SetUpMap()
         {
-            if (_Map == null)
+            /* if (_Map == null)
+             {
+                 FragmentManager.FindFragmentById(Resource.Id.map);
+             }*/
+
+            var _mapFragment = FragmentManager.FindFragmentById(Resource.Id.map) as SupportMapFragment;
+            if (_mapFragment == null)
             {
-                FragmentManager.FindFragmentById(Resource.Id.map);
+                GoogleMapOptions mapOptions = new GoogleMapOptions()
+                    .InvokeMapType(GoogleMap.MapTypeSatellite)
+                    .InvokeZoomControlsEnabled(false)
+                    .InvokeCompassEnabled(true);
+
+                FragmentTransaction fragTx = FragmentManager.BeginTransaction();
+                _mapFragment = SupportMapFragment.NewInstance(mapOptions);
+                fragTx.Add(Resource.Id.map, _mapFragment, "map");
+                fragTx.Commit();
             }
+            _mapFragment.GetMapAsync(this);
         }
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
@@ -36,12 +54,14 @@ namespace HeritageWalks.Fragments
             return view;
         }
 
-        public void OnMapReady(GoogleMap googleMap)
+   
+        public void OnMapReady(GoogleMap map)
         {
-            MapsInitializer.Initialize(this.Activity);
+            _Map = map;
+
             LatLng sydney = new LatLng(-33.852, 151.211);
-            googleMap.AddMarker(new MarkerOptions().SetPosition(sydney));
-            googleMap.MoveCamera(CameraUpdateFactory.NewLatLng(sydney));
+            map.AddMarker(new MarkerOptions().SetPosition(sydney));
+            map.MoveCamera(CameraUpdateFactory.NewLatLng(sydney));
         }
     }
 }
