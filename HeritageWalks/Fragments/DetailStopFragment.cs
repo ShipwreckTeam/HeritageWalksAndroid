@@ -32,7 +32,7 @@ namespace HeritageWalks.Fragments
         {
             mValuesD = new List<DetailStop>();
 
-            mValuesD.Add(new DetailStop() { id = "1.", name = "CLAREMONT STATION", stopDesc = "Old Claremont railway station is located the quick brown fox jumps etc etc", stopConstruct = "built 1898", stopLocation = "Corner of Railway Parade annd Stirling Highway", stopImage = AssignPicture(Resource.Drawable.stop_picture1) });
+            mValuesD.Add(new DetailStop() { id = "Stop 1", name = "CLAREMONT STATION", stopDesc = "Old Claremont railway station is located the quick brown fox jumps etc etc", stopConstruct = "Built in 1898", stopLocation = "Corner of Railway Parade and Stirling Highway", stopImage = AssignPicture(Resource.Drawable.stop_picture1) });
  
             recyclerView.SetLayoutManager(new LinearLayoutManager(recyclerView.Context));
             recyclerView.SetAdapter(new RecyclerViewAdapter(mValuesD));

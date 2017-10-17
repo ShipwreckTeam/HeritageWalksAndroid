@@ -56,6 +56,11 @@ E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\res\values-v21\styles.
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\R.cs.flag
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\uploadflags.txt
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\HeritageWalks.dll.mdb
+E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\Java.Interop.dll.mdb
+E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\Microsoft.CSharp.dll.mdb
+E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\Mono.Android.dll.mdb
+E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\mscorlib.dll.mdb
+E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\System.Core.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\System.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\System.Xml.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\System.Xml.Linq.dll.mdb
@@ -64,11 +69,6 @@ E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\Mono.CSharp.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\System.Net.Http.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\System.Runtime.Serialization.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\System.ServiceModel.Internals.dll.mdb
-E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\Java.Interop.dll.mdb
-E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\Microsoft.CSharp.dll.mdb
-E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\Mono.Android.dll.mdb
-E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\mscorlib.dll.mdb
-E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\System.Core.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\android\assets\HeritageWalks.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\android\assets\Java.Interop.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
@@ -83,5 +83,6 @@ E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\android\assets\Mono.CS
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\android\assets\System.Net.Http.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\res\layout\layout1.xml
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\obj\Debug\HeritageWalks.dll.mdb
 E:\OOP\Assessment 1\HeritageWalks\HeritageWalks\bin\Debug\HeritageWalks.dll.mdb

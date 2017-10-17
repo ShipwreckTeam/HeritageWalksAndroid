@@ -20,10 +20,11 @@ namespace HeritageWalks.Fragments
 
         private void SetUpMap()
         {
-            if (_Map == null)
-            {
-                FragmentManager.FindFragmentById(Resource.Id.map);
-            }
+            //if (_Map == null)
+            //{
+            //    FragmentManager.FindFragmentById(Resource.Id.map);
+            //}
+
         }
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
