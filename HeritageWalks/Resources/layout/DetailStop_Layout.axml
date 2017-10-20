@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FAFAFA">
+  <TextView
+    android:id="@+id/txtId_detail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColor="#000"
+    android:gravity="center"
+    android:paddingTop="15dp"
+    android:textSize="25dp"
+    android:textStyle="bold" />
+  <TextView
+      android:id="@+id/txtName_detail"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="#000"
+      android:paddingTop="15dp"
+      android:gravity="center"
+      android:textSize="30dp"
+      android:textStyle="bold" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/stop_img"
+        android:paddingTop="15dp"
+        android:minHeight="150dp"
+        android:minWidth="150dp"
+        android:layout_gravity="center_horizontal" />
+  <TextView
+      android:id="@+id/txtStopLocation"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="#000"
+      android:textSize="20dp"
+      android:textStyle="bold"
+      android:paddingTop="25dp"
+      android:paddingLeft="20dp" />
+  <TextView
+      android:id="@+id/txtStopConstruct"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="#000"
+      android:textSize="20dp"
+      android:textStyle="bold"
+      android:paddingTop="25dp"
+      android:paddingLeft="20dp" />
+    <TextView
+        android:id="@+id/txtStopDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:paddingTop="25dp"
+        android:paddingLeft="20dp" />
+</LinearLayout>

@@ -1,0 +1,16 @@
+﻿<resources>
+  <style name="Theme.HeritageWalks" parent="Base.Theme.HeritageWalks">
+  </style>
+
+  <style name="Theme.HeritageWalks2" parent="Base.Theme.HeritageWalks">
+  </style>
+
+  <style name="Base.Theme.HeritageWalks" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary"> #008020</item>
+    <item name="colorPrimaryDark">#00661A</item>
+  </style>
+
+  <style name="Theme.HeritageWalks.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+  <style name="Theme.HeritageWalks.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark" />
+</resources>
