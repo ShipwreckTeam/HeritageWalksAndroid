@@ -9,7 +9,7 @@ namespace HeritageWalks.Fragments
 {
     public class MapsFragment : SupportFragment, IOnMapReadyCallback
     {
-        private GoogleMap _Map;
+        //private GoogleMap _Map;
 
         public override void OnCreate(Bundle savedInstanceState)
         {

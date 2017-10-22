@@ -18,7 +18,7 @@ public class MainActivity_TabAdapter
 	}
 
 
-	public MainActivity_TabAdapter (android.support.v4.app.FragmentManager p0) throws java.lang.Throwable
+	public MainActivity_TabAdapter (android.support.v4.app.FragmentManager p0)
 	{
 		super (p0);
 		if (getClass () == MainActivity_TabAdapter.class)

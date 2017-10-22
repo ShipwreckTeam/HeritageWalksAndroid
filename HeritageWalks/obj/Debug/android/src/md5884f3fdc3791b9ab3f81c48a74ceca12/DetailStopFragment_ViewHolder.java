@@ -15,7 +15,7 @@ public class DetailStopFragment_ViewHolder
 	}
 
 
-	public DetailStopFragment_ViewHolder (android.view.View p0) throws java.lang.Throwable
+	public DetailStopFragment_ViewHolder (android.view.View p0)
 	{
 		super (p0);
 		if (getClass () == DetailStopFragment_ViewHolder.class)

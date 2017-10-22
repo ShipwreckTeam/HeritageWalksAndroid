@@ -6,44 +6,57 @@ using System.Collections.Generic;
 using Android.Content;
 using Android.Widget;
 using HeritageWalks.Activities;
+using System.Threading.Tasks;
+using System;
+using Android.App;
 
 namespace HeritageWalks.Fragments
 {
     public class StopFragment : SupportFragment
     {
         private List<Stop> mValues;
+        RecyclerView mRecyclerView;
+        DataAPI data = new DataAPI();
+        RecyclerViewAdapter mAdapter;
+        ProgressDialog pd;
 
         public override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
+            pd = ProgressDialog.Show(Context, "", "Loading stops", true);
         }
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
-        {
-            RecyclerView recyclerView = inflater.Inflate(Resource.Layout.StopFragment, container, false) as RecyclerView;
-            SetUpRecyclerView(recyclerView);
+        {          
+            mRecyclerView = inflater.Inflate(Resource.Layout.StopFragment, container, false) as RecyclerView;
+            mRecyclerView.SetLayoutManager(new LinearLayoutManager(mRecyclerView.Context));
+            mRecyclerView.SetAdapter(new RecyclerViewAdapter(mValues));
 
-            return recyclerView;
+            return mRecyclerView;
         }
 
-        private void SetUpRecyclerView(RecyclerView recyclerView)
+        public override void OnResume()
         {
-            mValues = new List<Stop>();
+            base.OnResume();
+            Task.Run(async () =>
+            {
+                try
+                {
+                    mValues = await data.GetStopsAsync();
+                   
+                    Activity.RunOnUiThread(() =>
+                    {
+                        mAdapter = new RecyclerViewAdapter(mValues);
+                        mRecyclerView.SetAdapter(mAdapter);
+                        pd.Hide();
+                    });
+                }
+                catch (Exception)
+                {
 
-            mValues.Add(new Stop() { id = "1.", name = "CLAREMONT STATION", shortDesc = "Old Claremont railway station", built = "built 1898", pictureInt = AssignPicture(Resource.Drawable.stop_picture1) });
-            mValues.Add(new Stop() { id = "2.", name = "RAILWAY SIGNAL BOX", shortDesc = "Part of the old railway system", built = "built 1925", pictureInt = AssignPicture(Resource.Drawable.stop_picture2) });
+                }
+            });
 
-
-            recyclerView.SetLayoutManager(new LinearLayoutManager(recyclerView.Context));
-            recyclerView.SetAdapter(new RecyclerViewAdapter(mValues));
-        }
-
-        public int AssignPicture(int pictureLocation)
-        {
-            int picture = pictureLocation;
-
-            return picture;
         }
 
         private class RecyclerViewAdapter : RecyclerView.Adapter
@@ -59,7 +72,14 @@ namespace HeritageWalks.Fragments
             {
                 get
                 {
-                    return mValues.Count;
+                    if (mValues != null)
+                    {
+                        return mValues.Count;
+                    }
+                    else
+                    {
+                        return 0;
+                    }
                 }
             }
 
@@ -67,12 +87,11 @@ namespace HeritageWalks.Fragments
             {
                 var viewHolder = holder as ViewHolder;
 
-                viewHolder._ImageView.SetImageResource(mValues[position].pictureInt);
-                viewHolder._TxtViewId.Text = mValues[position].id;
-                viewHolder._TxtViewName.Text = mValues[position].name;
-                viewHolder._TxtViewShortDesc.Text = mValues[position].shortDesc;
-                viewHolder._TxtViewBuilt.Text = mValues[position].built;
-
+                viewHolder._ImageView.SetImageResource(mValues[position].PictureInt);
+                viewHolder._TxtViewId.Text = mValues[position].Id.ToString();
+                viewHolder._TxtViewName.Text = mValues[position].Name;
+                viewHolder._TxtViewShortDesc.Text = mValues[position].ShortDesc;
+                viewHolder._TxtViewBuilt.Text = mValues[position].Built;
             }
 
             public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)

@@ -17,7 +17,7 @@ public class StopsActivity
 	}
 
 
-	public StopsActivity () throws java.lang.Throwable
+	public StopsActivity ()
 	{
 		super ();
 		if (getClass () == StopsActivity.class)
