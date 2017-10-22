@@ -17,7 +17,7 @@ public class GoogleMap_OnInfoWindowClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnInfoWindowClickListenerImplementor () throws java.lang.Throwable
+	public GoogleMap_OnInfoWindowClickListenerImplementor ()
 	{
 		super ();
 		if (getClass () == GoogleMap_OnInfoWindowClickListenerImplementor.class)

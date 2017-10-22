@@ -17,7 +17,7 @@ public class GoogleMap_OnGroundOverlayClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnGroundOverlayClickListenerImplementor () throws java.lang.Throwable
+	public GoogleMap_OnGroundOverlayClickListenerImplementor ()
 	{
 		super ();
 		if (getClass () == GoogleMap_OnGroundOverlayClickListenerImplementor.class)

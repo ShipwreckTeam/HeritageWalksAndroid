@@ -18,7 +18,7 @@ public class GoogleMap_OnIndoorStateChangeListenerImplementor
 	}
 
 
-	public GoogleMap_OnIndoorStateChangeListenerImplementor () throws java.lang.Throwable
+	public GoogleMap_OnIndoorStateChangeListenerImplementor ()
 	{
 		super ();
 		if (getClass () == GoogleMap_OnIndoorStateChangeListenerImplementor.class)

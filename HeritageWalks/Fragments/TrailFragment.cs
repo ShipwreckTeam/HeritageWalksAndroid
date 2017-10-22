@@ -7,37 +7,55 @@ using System.Collections.Generic;
 using Android.Content;
 using Android.Widget;
 using HeritageWalks.Activities;
+using Android.App;
+using System.Threading.Tasks;
 
 namespace HeritageWalks.Fragments
 {
     public class TrailFragment : SupportFragment
     {
         private List<Trail> mValues;
+        RecyclerView mRecyclerView;
+        DataAPI data = new DataAPI();
+        RecyclerViewAdapter mAdapter;
+        ProgressDialog pd;
 
         public override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
+            pd = ProgressDialog.Show(Context, "", "Loading Trails", true);
         }
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
-            RecyclerView recyclerView = inflater.Inflate(Resource.Layout.TrailFragment, container, false) as RecyclerView;
-            SetUpRecyclerView(recyclerView);
+            mRecyclerView = inflater.Inflate(Resource.Layout.TrailFragment, container, false) as RecyclerView;
+            mRecyclerView.SetLayoutManager(new LinearLayoutManager(mRecyclerView.Context));
+            mRecyclerView.SetAdapter(new RecyclerViewAdapter(mValues));
 
-            return recyclerView;
+            return mRecyclerView;
         }
 
-        private void SetUpRecyclerView(RecyclerView recyclerView)
+        public override void OnResume()
         {
-            mValues = new List<Trail>();
+            base.OnResume();
+            Task.Run(async () =>
+            {
+                try
+                {
+                    mValues = await data.GetTrailsAsync();
 
-            mValues.Add(new Trail() { name = "Trail of memories", time = "1.5hrs", length = "3.0km", pictureName = Resource.Drawable.picture1 });
-            mValues.Add(new Trail() { name = "Cobblers and Convicts", time = "0.6hrs", length = "2.5km", pictureName = Resource.Drawable.picture2 });
-            mValues.Add(new Trail() { name = "Rediscover the terrace", time = "2.5hrs", length = "3.5km", pictureName = Resource.Drawable.picture3 });
+                    Activity.RunOnUiThread(() =>
+                    {
+                        mAdapter = new RecyclerViewAdapter(mValues);
+                        mRecyclerView.SetAdapter(mAdapter);
+                        pd.Hide();
+                    });
+                }
+                catch (Exception)
+                {
 
-            recyclerView.SetLayoutManager(new LinearLayoutManager(recyclerView.Context));
-            recyclerView.SetAdapter(new RecyclerViewAdapter(mValues));
+                }
+            });
         }
 
         public class RecyclerViewAdapter : RecyclerView.Adapter
@@ -59,7 +77,14 @@ namespace HeritageWalks.Fragments
             {
                 get
                 {
-                    return mValues.Count;
+                    if (mValues != null)
+                    {
+                        return mValues.Count;
+                    }
+                    else
+                    {
+                        return 0;
+                    }
                 }
             }
 
@@ -67,14 +92,11 @@ namespace HeritageWalks.Fragments
             {
                 var viewHolder = holder as ViewHolder;
 
-                viewHolder._TxtViewName.Text = mValues[position].name;
+                viewHolder._TxtViewName.Text = mValues[position].Name;
                 viewHolder._TxtViewName.SetBackgroundResource(AssignColour());
-                viewHolder._TxtViewTime.Text = mValues[position].time;
-                viewHolder._TxtViewLength.Text = mValues[position].length;
-                viewHolder._ImageView.SetImageResource(mValues[position].pictureName);
-
-
-
+                viewHolder._TxtViewTime.Text = mValues[position].Time;
+                viewHolder._TxtViewLength.Text = mValues[position].Length;
+                viewHolder._ImageView.SetImageResource(mValues[position].PictureInt);
             }
 
             public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)

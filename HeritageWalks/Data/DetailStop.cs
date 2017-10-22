@@ -12,16 +12,62 @@ using Android.Widget;
 
 namespace HeritageWalks
 {
-    class DetailStop
+    public class DetailStop
     {
-        public string id { get; set; }
-        public string name { get; set; }
-        public string stopDesc { get; set; }
-        public string stopConstruct { get; set; }
-        public string stopLocation { get; set; }
-        public string stopCoordX { get; set; }
-        public string stopCoordY { get; set; }
-        public int stopImage { get; set; }
-        public string stopVideoURL { get; set; }
+        private string id;
+        private string name;
+        private string stopDesc;
+        private string stopConstruct;
+        private string stopLocation;
+        private string stopCoordX;
+        private string stopCoordY;
+        private int stopImage;
+        private string stopVideoURL;
+
+        public string Id
+        {
+            get { return id; }
+            set { id = value; }
+        }
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+        public string StopDesc
+        {
+            get { return stopDesc; }
+            set { stopDesc = value; }
+        }
+        public string StopConstruct
+        {
+            get { return stopConstruct; }
+            set { stopConstruct = value; }
+        }
+        public string StopLocation
+        {
+            get { return stopLocation; }
+            set { stopLocation = value; }
+        }
+        public string StopCoordX
+        {
+            get { return stopCoordX; }
+            set { stopCoordX = value; }
+        }
+        public string StopCoordY
+        {
+            get { return stopCoordY; }
+            set { stopCoordY = value; }
+        }
+        public int StopImage
+        {
+            get { return stopImage; }
+            set { stopImage = value; }
+        }
+        public string StopVideoURL
+        {
+            get { return stopVideoURL; }
+            set { stopVideoURL = value; }
+        }
     }
 }

@@ -18,7 +18,7 @@ public class TrailFragment_RecyclerViewAdapter
 	}
 
 
-	public TrailFragment_RecyclerViewAdapter () throws java.lang.Throwable
+	public TrailFragment_RecyclerViewAdapter ()
 	{
 		super ();
 		if (getClass () == TrailFragment_RecyclerViewAdapter.class)

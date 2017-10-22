@@ -17,7 +17,7 @@ public class GoogleMap_OnCircleClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnCircleClickListenerImplementor () throws java.lang.Throwable
+	public GoogleMap_OnCircleClickListenerImplementor ()
 	{
 		super ();
 		if (getClass () == GoogleMap_OnCircleClickListenerImplementor.class)

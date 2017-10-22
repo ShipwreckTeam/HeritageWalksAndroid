@@ -6,52 +6,67 @@ using System.Collections.Generic;
 using Android.Content;
 using Android.Widget;
 using HeritageWalks.Activities;
+using Android.App;
+using System.Threading.Tasks;
+using System;
 
 namespace HeritageWalks.Fragments
 {
     public class DetailStopFragment : SupportFragment
     {
-        private List<DetailStop> mValuesD;
+        private List<DetailStop> mValues;
+        RecyclerView mRecyclerView;
+        DataAPI data = new DataAPI();
+        RecyclerViewAdapter mAdapter;
+        ProgressDialog pd;
 
         public override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
-            // Create your fragment here
+            pd = ProgressDialog.Show(Context, "", "Loading Stop Details", true);
         }
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
-            RecyclerView recyclerView = inflater.Inflate(Resource.Layout.DetailStopFragment, container, false) as RecyclerView;
-            SetUpRecyclerView(recyclerView);
+            mRecyclerView = inflater.Inflate(Resource.Layout.DetailStopFragment, container, false) as RecyclerView;
+            mRecyclerView.SetLayoutManager(new LinearLayoutManager(mRecyclerView.Context));
+            mRecyclerView.SetAdapter(new RecyclerViewAdapter(mValues));
 
-            return recyclerView;
+            return mRecyclerView;
         }
 
-        public void SetUpRecyclerView(RecyclerView recyclerView)
+        public override void OnResume()
         {
-            mValuesD = new List<DetailStop>();
+            base.OnResume();
+            Task.Run(async () =>
+            {
+                try
+                {
+                    mValues = await data.GetDetailStopsAsync();
 
-            mValuesD.Add(new DetailStop() { id = "Stop 1", name = "CLAREMONT STATION", stopDesc = "Old Claremont railway station is located the quick brown fox jumps etc etc", stopConstruct = "Built in 1898", stopLocation = "Corner of Railway Parade and Stirling Highway", stopImage = AssignPicture(Resource.Drawable.stop_picture1) });
- 
-            recyclerView.SetLayoutManager(new LinearLayoutManager(recyclerView.Context));
-            recyclerView.SetAdapter(new RecyclerViewAdapter(mValuesD));
+                    Activity.RunOnUiThread(() =>
+                    {
+                        mAdapter = new RecyclerViewAdapter(mValues);
+                        mRecyclerView.SetAdapter(mAdapter);
+                        pd.Hide();
+                    });
+                }
+                catch (Exception)
+                {
+
+                }
+            });
+
         }
 
-        public int AssignPicture(int pictureLocation)
-        {
-            int picture = pictureLocation;
-
-            return picture;
-        }
 
         private class RecyclerViewAdapter : RecyclerView.Adapter
         {
-            private List<DetailStop> mValuesD;
+            private List<DetailStop> mValues;
 
             public RecyclerViewAdapter(List<DetailStop> items)
             {
-                mValuesD = items;
+                mValues = items;
             }
 
 
@@ -59,7 +74,14 @@ namespace HeritageWalks.Fragments
             {
                 get
                 {
-                    return mValuesD.Count;
+                    if (mValues != null)
+                    {
+                        return mValues.Count;
+                    }
+                    else
+                    {
+                        return 0;
+                    }
                 }
             }
 
@@ -67,12 +89,12 @@ namespace HeritageWalks.Fragments
             {
                 var viewHolder = holder as ViewHolder;
 
-                viewHolder._ImageView.SetImageResource(mValuesD[position].stopImage);
-                viewHolder._TxtViewId.Text = mValuesD[position].id;
-                viewHolder._TxtViewName.Text = mValuesD[position].name;
-                viewHolder._TxtViewStopDesc.Text = mValuesD[position].stopDesc;
-                viewHolder._TxtViewStopConstruct.Text = mValuesD[position].stopConstruct;
-                viewHolder._TxtViewStopLocation.Text = mValuesD[position].stopLocation;
+                viewHolder._ImageView.SetImageResource(mValues[position].StopImage);
+                viewHolder._TxtViewId.Text = mValues[position].Id;
+                viewHolder._TxtViewName.Text = mValues[position].Name;
+                viewHolder._TxtViewStopDesc.Text = mValues[position].StopDesc;
+                viewHolder._TxtViewStopConstruct.Text = mValues[position].StopConstruct;
+                viewHolder._TxtViewStopLocation.Text = mValues[position].StopLocation;
 
             }
 

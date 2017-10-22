@@ -17,7 +17,7 @@ public class StreetViewPanorama_OnStreetViewPanoramaChangeListenerImplementor
 	}
 
 
-	public StreetViewPanorama_OnStreetViewPanoramaChangeListenerImplementor () throws java.lang.Throwable
+	public StreetViewPanorama_OnStreetViewPanoramaChangeListenerImplementor ()
 	{
 		super ();
 		if (getClass () == StreetViewPanorama_OnStreetViewPanoramaChangeListenerImplementor.class)

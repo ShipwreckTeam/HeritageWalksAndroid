@@ -17,7 +17,7 @@ public class GoogleMap_OnMyLocationButtonClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnMyLocationButtonClickListenerImplementor () throws java.lang.Throwable
+	public GoogleMap_OnMyLocationButtonClickListenerImplementor ()
 	{
 		super ();
 		if (getClass () == GoogleMap_OnMyLocationButtonClickListenerImplementor.class)
