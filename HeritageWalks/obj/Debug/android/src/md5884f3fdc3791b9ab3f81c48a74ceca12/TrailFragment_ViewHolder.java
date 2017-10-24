@@ -15,7 +15,7 @@ public class TrailFragment_ViewHolder
 	}
 
 
-	public TrailFragment_ViewHolder (android.view.View p0) throws java.lang.Throwable
+	public TrailFragment_ViewHolder (android.view.View p0)
 	{
 		super (p0);
 		if (getClass () == TrailFragment_ViewHolder.class)

@@ -17,7 +17,7 @@ public class GoogleMap_OnPolylineClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnPolylineClickListenerImplementor () throws java.lang.Throwable
+	public GoogleMap_OnPolylineClickListenerImplementor ()
 	{
 		super ();
 		if (getClass () == GoogleMap_OnPolylineClickListenerImplementor.class)

@@ -18,7 +18,7 @@ public class DetailStopActivity_TabAdapter
 	}
 
 
-	public DetailStopActivity_TabAdapter (android.support.v4.app.FragmentManager p0) throws java.lang.Throwable
+	public DetailStopActivity_TabAdapter (android.support.v4.app.FragmentManager p0)
 	{
 		super (p0);
 		if (getClass () == DetailStopActivity_TabAdapter.class)

@@ -17,7 +17,7 @@ public class GoogleMap_OnMapLongClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnMapLongClickListenerImplementor () throws java.lang.Throwable
+	public GoogleMap_OnMapLongClickListenerImplementor ()
 	{
 		super ();
 		if (getClass () == GoogleMap_OnMapLongClickListenerImplementor.class)

@@ -17,7 +17,7 @@ public class GoogleMap_OnMarkerClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnMarkerClickListenerImplementor () throws java.lang.Throwable
+	public GoogleMap_OnMarkerClickListenerImplementor ()
 	{
 		super ();
 		if (getClass () == GoogleMap_OnMarkerClickListenerImplementor.class)

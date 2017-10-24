@@ -17,7 +17,7 @@ public class LocationSource_OnLocationChangedListenerImplementor
 	}
 
 
-	public LocationSource_OnLocationChangedListenerImplementor () throws java.lang.Throwable
+	public LocationSource_OnLocationChangedListenerImplementor ()
 	{
 		super ();
 		if (getClass () == LocationSource_OnLocationChangedListenerImplementor.class)

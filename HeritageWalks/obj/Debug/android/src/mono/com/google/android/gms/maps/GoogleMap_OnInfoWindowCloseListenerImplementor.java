@@ -17,7 +17,7 @@ public class GoogleMap_OnInfoWindowCloseListenerImplementor
 	}
 
 
-	public GoogleMap_OnInfoWindowCloseListenerImplementor () throws java.lang.Throwable
+	public GoogleMap_OnInfoWindowCloseListenerImplementor ()
 	{
 		super ();
 		if (getClass () == GoogleMap_OnInfoWindowCloseListenerImplementor.class)
