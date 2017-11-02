@@ -14,30 +14,22 @@ namespace HeritageWalks
 {
     public class Stop
     {
-        private int id;
+        private int stopId;
         private string name;
         private string shortDesc;
         private string built;
         private int pictureInt;
+        private int trailId;
 
-        public Stop(int id, string name, string shortDesc, string built, int pictureInt)
+        public int StopId
         {
-            this.id = id;
-            this.name = name;
-            this.shortDesc = shortDesc;
-            this.built = built;
-            this.pictureInt = pictureInt;
-        }
-
-        public int Id
-        {
-            get { return id; }
-            set { id = value; }
+            get { return stopId; }
+            set { stopId = value; }
         }
         public string Name
         {
             get { return name; }
-            set { Name = value; }
+            set { name = value; }
         }
         public string ShortDesc
         {
@@ -53,6 +45,11 @@ namespace HeritageWalks
         {
             get { return pictureInt; }
             set { pictureInt = value; }
+        }
+        public int TrailId
+        {
+            get { return trailId; }
+            set { trailId = value; }
         }
     }
 }

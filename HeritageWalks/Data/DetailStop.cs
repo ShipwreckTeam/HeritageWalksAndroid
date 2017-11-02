@@ -14,7 +14,7 @@ namespace HeritageWalks
 {
     public class DetailStop
     {
-        private string id;
+        private int stopId;
         private string name;
         private string stopDesc;
         private string stopConstruct;
@@ -23,11 +23,12 @@ namespace HeritageWalks
         private string stopCoordY;
         private int stopImage;
         private string stopVideoURL;
+        private int trailId;
 
-        public string Id
+        public int StopId
         {
-            get { return id; }
-            set { id = value; }
+            get { return stopId; }
+            set { stopId = value; }
         }
         public string Name
         {
@@ -68,6 +69,11 @@ namespace HeritageWalks
         {
             get { return stopVideoURL; }
             set { stopVideoURL = value; }
+        }
+        public int TrailId
+        {
+            get { return trailId; }
+            set { trailId = value; }
         }
     }
 }
