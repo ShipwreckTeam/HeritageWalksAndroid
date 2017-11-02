@@ -14,16 +14,16 @@ namespace HeritageWalks
 {
     public class Trail
     {
-        private int id;
+        private int trailID;
         private string name;
         private string time;
         private string length;
         private int pictureInt;
 
-        public int Id
+        public int TrailID
         {
-            get { return id; }
-            set { id = value; }
+            get { return trailID; }
+            set { trailID = value; }
         }
         public string Name
         {

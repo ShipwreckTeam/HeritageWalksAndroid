@@ -14,41 +14,46 @@ namespace HeritageWalks.Fragments
 {
     public class DetailStopFragment : SupportFragment
     {
-        private List<DetailStop> mValues;
-        RecyclerView mRecyclerView;
-        DataAPI data = new DataAPI();
-        RecyclerViewAdapter mAdapter;
-        ProgressDialog pd;
+        private List<DetailStop> mValues = new List<DetailStop>();
+        private List<DetailStop> mDetailStopList = new List<DetailStop>();
+        private string mTrailId;
+        private string mStopId;
+
+        private RecyclerView mRecyclerView;
+        private DataAPI mData = new DataAPI();
+        private RecyclerViewAdapter mAdapter;
+        private ProgressDialog mProgressBar;
 
         public override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            pd = ProgressDialog.Show(Context, "", "Loading Stop Details", true);
+            mTrailId = Arguments.GetString("Trail ID");
+            mStopId = Arguments.GetString("Stop ID");
+            mProgressBar = ProgressDialog.Show(Context, "", "Loading Stop Details", true);
         }
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
             mRecyclerView = inflater.Inflate(Resource.Layout.DetailStopFragment, container, false) as RecyclerView;
             mRecyclerView.SetLayoutManager(new LinearLayoutManager(mRecyclerView.Context));
-            mRecyclerView.SetAdapter(new RecyclerViewAdapter(mValues));
 
-            return mRecyclerView;
-        }
-
-        public override void OnResume()
-        {
-            base.OnResume();
-            Task.Run(async () =>
+            Task.Run(() =>
             {
                 try
                 {
-                    mValues = await data.GetDetailStopsAsync();
-
-                    Activity.RunOnUiThread(() =>
+                    Activity.RunOnUiThread(async () =>
                     {
-                        mAdapter = new RecyclerViewAdapter(mValues);
+                        mValues = await mData.GetDetailStopsAsync();
+                        for (int i = 0; i < mValues.Count; i++)
+                        {
+                            if (mValues[i].TrailId == Convert.ToInt32(mTrailId) && mValues[i].StopId == Convert.ToInt32(mStopId))
+                            {
+                                mDetailStopList.Add(mValues[i]);
+                            }
+                        }
+                        mAdapter = new RecyclerViewAdapter(mDetailStopList);
                         mRecyclerView.SetAdapter(mAdapter);
-                        pd.Hide();
+                        mProgressBar.Hide();
                     });
                 }
                 catch (Exception)
@@ -57,9 +62,10 @@ namespace HeritageWalks.Fragments
                 }
             });
 
+            return mRecyclerView;
         }
 
-
+       
         private class RecyclerViewAdapter : RecyclerView.Adapter
         {
             private List<DetailStop> mValues;
@@ -68,7 +74,6 @@ namespace HeritageWalks.Fragments
             {
                 mValues = items;
             }
-
 
             public override int ItemCount
             {
@@ -89,13 +94,12 @@ namespace HeritageWalks.Fragments
             {
                 var viewHolder = holder as ViewHolder;
 
-                viewHolder._ImageView.SetImageResource(mValues[position].StopImage);
-                viewHolder._TxtViewId.Text = mValues[position].Id;
-                viewHolder._TxtViewName.Text = mValues[position].Name;
-                viewHolder._TxtViewStopDesc.Text = mValues[position].StopDesc;
-                viewHolder._TxtViewStopConstruct.Text = mValues[position].StopConstruct;
-                viewHolder._TxtViewStopLocation.Text = mValues[position].StopLocation;
-
+                viewHolder.mImageView.SetImageResource(mValues[position].StopImage);
+                viewHolder.mTxtViewId.Text = mValues[position].StopId.ToString();
+                viewHolder.mTxtViewName.Text = mValues[position].Name;
+                viewHolder.mTxtViewStopDesc.Text = mValues[position].StopDesc;
+                viewHolder.mTxtViewStopConstruct.Text = mValues[position].StopConstruct;
+                viewHolder.mTxtViewStopLocation.Text = mValues[position].StopLocation;
             }
 
             public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)
@@ -107,32 +111,29 @@ namespace HeritageWalks.Fragments
 
         public class ViewHolder : RecyclerView.ViewHolder
         {
-            public View _View;
-            public ImageView _ImageView;
-            public TextView _TxtViewId;
-            public TextView _TxtViewName;
-            public TextView _TxtViewStopDesc;
-            public TextView _TxtViewStopConstruct;
-            public TextView _TxtViewStopLocation;
+            public View mView;
+            public ImageView mImageView;
+            public TextView mTxtViewId;
+            public TextView mTxtViewName;
+            public TextView mTxtViewStopDesc;
+            public TextView mTxtViewStopConstruct;
+            public TextView mTxtViewStopLocation;
 
             public ViewHolder(View view) : base(view)
             {
-                _View = view;
+                mView = view;
 
-                _View.Click += (sender, e) =>
+                mView.Click += (sender, e) =>
                 {
-                    var context = _View.Context;
-                    Intent intent = new Intent(context, typeof(DetailStopActivity));
-                    context.StartActivity(intent);
+
                 };
 
-                _ImageView = view.FindViewById<ImageView>(Resource.Id.stop_img);
-                _TxtViewId = view.FindViewById<TextView>(Resource.Id.txtId_detail);
-                _TxtViewName = view.FindViewById<TextView>(Resource.Id.txtName_detail);
-                _TxtViewStopDesc = view.FindViewById<TextView>(Resource.Id.txtStopDesc);
-                _TxtViewStopConstruct = view.FindViewById<TextView>(Resource.Id.txtStopConstruct);
-                _TxtViewStopLocation = view.FindViewById<TextView>(Resource.Id.txtStopLocation);
-
+                mImageView = view.FindViewById<ImageView>(Resource.Id.stop_img);
+                mTxtViewId = view.FindViewById<TextView>(Resource.Id.txtId_detail);
+                mTxtViewName = view.FindViewById<TextView>(Resource.Id.txtName_detail);
+                mTxtViewStopDesc = view.FindViewById<TextView>(Resource.Id.txtStopDesc);
+                mTxtViewStopConstruct = view.FindViewById<TextView>(Resource.Id.txtStopConstruct);
+                mTxtViewStopLocation = view.FindViewById<TextView>(Resource.Id.txtStopLocation);
             }
         }
 

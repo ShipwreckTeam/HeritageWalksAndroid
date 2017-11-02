@@ -9,7 +9,7 @@ namespace HeritageWalks.Fragments
 {
     public class MapsFragment : SupportFragment, IOnMapReadyCallback
     {
-        //private GoogleMap _Map;
+        private GoogleMap _Map;
 
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -20,10 +20,10 @@ namespace HeritageWalks.Fragments
 
         private void SetUpMap()
         {
-            //if (_Map == null)
-            //{
-            //    FragmentManager.FindFragmentById(Resource.Id.map);
-            //}
+            if (_Map == null)
+            {
+                FragmentManager.FindFragmentById(Resource.Id.map);
+            }
 
         }
 
