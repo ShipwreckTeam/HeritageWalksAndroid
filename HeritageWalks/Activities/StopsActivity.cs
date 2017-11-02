@@ -20,10 +20,12 @@ namespace HeritageWalks.Activities
     public class StopsActivity : AppCompatActivity
     {
         private DrawerLayout _drawerLayout;
+        private string trailId;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+            trailId = Intent.GetStringExtra("Trail ID");
 
             // Create your application here
             SetContentView(Resource.Layout.Stops);
@@ -58,6 +60,11 @@ namespace HeritageWalks.Activities
             TabAdapter adapter = new TabAdapter(SupportFragmentManager);
             adapter.AddFragment(new StopFragment(), "Walks");
             adapter.AddFragment(new MapsFragment(), "Map");
+
+            Bundle args = new Bundle();
+            args.PutString("Trail ID", trailId);
+            var stopFragment = adapter.GetItem(0);
+            stopFragment.Arguments = args;
 
             viewPager.Adapter = adapter;
         }

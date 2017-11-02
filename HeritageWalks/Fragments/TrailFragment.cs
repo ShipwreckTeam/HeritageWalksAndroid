@@ -14,41 +14,34 @@ namespace HeritageWalks.Fragments
 {
     public class TrailFragment : SupportFragment
     {
-        private List<Trail> mValues;
-        RecyclerView mRecyclerView;
-        DataAPI data = new DataAPI();
-        RecyclerViewAdapter mAdapter;
-        ProgressDialog pd;
+        private List<Trail> mValues = new List<Trail>();
+        private RecyclerView mRecyclerView;
+        private DataAPI mData = new DataAPI();
+        private RecyclerViewAdapter mAdapter;
+        private ProgressDialog mProgressBar;
 
         public override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            pd = ProgressDialog.Show(Context, "", "Loading Trails", true);
+            mProgressBar = ProgressDialog.Show(Context, "", "Loading Trails", true);
         }
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
             mRecyclerView = inflater.Inflate(Resource.Layout.TrailFragment, container, false) as RecyclerView;
             mRecyclerView.SetLayoutManager(new LinearLayoutManager(mRecyclerView.Context));
-            mRecyclerView.SetAdapter(new RecyclerViewAdapter(mValues));
 
-            return mRecyclerView;
-        }
-
-        public override void OnResume()
-        {
-            base.OnResume();
-            Task.Run(async () =>
+            Task.Run(() =>
             {
                 try
                 {
-                    mValues = await data.GetTrailsAsync();
-
-                    Activity.RunOnUiThread(() =>
+                    Activity.RunOnUiThread(async () =>
                     {
+                        mValues = await mData.GetTrailsAsync();
+                       
                         mAdapter = new RecyclerViewAdapter(mValues);
                         mRecyclerView.SetAdapter(mAdapter);
-                        pd.Hide();
+                        mProgressBar.Hide();
                     });
                 }
                 catch (Exception)
@@ -56,21 +49,23 @@ namespace HeritageWalks.Fragments
 
                 }
             });
+
+            return mRecyclerView;
         }
 
         public class RecyclerViewAdapter : RecyclerView.Adapter
         {
             private List<Trail> mValues;
-            List<int> colourList = new List<int>();
-            private int _colourIndex;
+            List<int> mColourList = new List<int>();
+            private int mColourIndex;
 
             public RecyclerViewAdapter(List<Trail> items)
             {
                 mValues = items;
-                _colourIndex = 0;
-                colourList.Add(Resource.Color.orange);
-                colourList.Add(Resource.Color.purple);
-                colourList.Add(Resource.Color.green);
+                mColourIndex = 0;
+                mColourList.Add(Resource.Color.orange);
+                mColourList.Add(Resource.Color.purple);
+                mColourList.Add(Resource.Color.green);
             }
 
             public override int ItemCount
@@ -92,11 +87,11 @@ namespace HeritageWalks.Fragments
             {
                 var viewHolder = holder as ViewHolder;
 
-                viewHolder._TxtViewName.Text = mValues[position].Name;
-                viewHolder._TxtViewName.SetBackgroundResource(AssignColour());
-                viewHolder._TxtViewTime.Text = mValues[position].Time;
-                viewHolder._TxtViewLength.Text = mValues[position].Length;
-                viewHolder._ImageView.SetImageResource(mValues[position].PictureInt);
+                viewHolder.mTxtViewName.Text = mValues[position].Name;
+                viewHolder.mTxtViewName.SetBackgroundResource(AssignColour());
+                viewHolder.mTxtViewTime.Text = mValues[position].Time;
+                viewHolder.mTxtViewLength.Text = mValues[position].Length;
+                viewHolder.mImageView.SetImageResource(mValues[position].PictureInt);
             }
 
             public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)
@@ -109,40 +104,43 @@ namespace HeritageWalks.Fragments
             {
                 int colour;
 
-                if (_colourIndex > colourList.Count)
+                if (mColourIndex > mColourList.Count)
                 {
-                    _colourIndex = 0;
+                    mColourIndex = 0;
                 }
 
-                colour = colourList[_colourIndex];
-                _colourIndex++;
+                colour = mColourList[mColourIndex];
+                mColourIndex++;
                 return colour;
             }
         }
 
         public class ViewHolder : RecyclerView.ViewHolder
         {
-            public View _View;
-            public ImageView _ImageView;
-            public TextView _TxtViewName;
-            public TextView _TxtViewTime;
-            public TextView _TxtViewLength;
+            public View mView;
+            public ImageView mImageView;
+            public TextView mTxtViewName;
+            public TextView mTxtViewTime;
+            public TextView mTxtViewLength;
 
             public ViewHolder(View view) : base(view)
             {
-                _View = view;
+                mView = view;
 
-                _View.Click += (sender, e) =>
+                mView.Click += (sender, e) =>
                 {
-                    var context = _View.Context;
+                    var trailId = LayoutPosition;
+                    trailId++;
+                    var context = mView.Context;
                     Intent intent = new Intent(context, typeof(StopsActivity));
+                    intent.PutExtra("Trail ID", Convert.ToString(trailId));
                     context.StartActivity(intent);
                 };
 
-                _ImageView = view.FindViewById<ImageView>(Resource.Id.view_img);
-                _TxtViewName = view.FindViewById<TextView>(Resource.Id.txtName);
-                _TxtViewTime = view.FindViewById<TextView>(Resource.Id.txtTime);
-                _TxtViewLength = view.FindViewById<TextView>(Resource.Id.txtLength);
+                mImageView = view.FindViewById<ImageView>(Resource.Id.view_img);
+                mTxtViewName = view.FindViewById<TextView>(Resource.Id.txtName);
+                mTxtViewTime = view.FindViewById<TextView>(Resource.Id.txtTime);
+                mTxtViewLength = view.FindViewById<TextView>(Resource.Id.txtLength);
             }
         }
 

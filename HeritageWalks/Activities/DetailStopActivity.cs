@@ -20,10 +20,14 @@ namespace HeritageWalks.Activities
     public class DetailStopActivity : AppCompatActivity
     {
         private DrawerLayout _drawerLayout;
+        private string trailId;
+        private string stopId;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+            trailId = Intent.GetStringExtra("Trail ID");
+            stopId = Intent.GetStringExtra("Stop ID");
 
             SetContentView(Resource.Layout.DetailStop);
 
@@ -56,24 +60,28 @@ namespace HeritageWalks.Activities
         {
             TabAdapter adapter = new TabAdapter(SupportFragmentManager);
             adapter.AddFragment(new DetailStopFragment(), "Stop Details");
-            
+
+            Bundle args = new Bundle();
+            args.PutString("Trail ID", trailId);
+            args.PutString("Stop ID", stopId);
+            var stopFragment = adapter.GetItem(0);
+            stopFragment.Arguments = args;
+
             viewPager.Adapter = adapter;
         }
 
-        //public override bool OnOptionsItemSelected(IMenuItem item)
-        //{
-        //    switch (item.ItemId)
-        //    {
-        //        case Android.Resource.Id.Home:
-        //            _drawerLayout.OpenDrawer((int)GravityFlags.Left);
-        //            return true;
+        public override bool OnOptionsItemSelected(IMenuItem item)
+        {
+            switch (item.ItemId)
+            {
+                case Android.Resource.Id.Home:
+                    _drawerLayout.OpenDrawer((int)GravityFlags.Left);
+                    return true;
 
-        //        default:
-        //            return base.OnOptionsItemSelected(item);
-
-        //    }
-
-        //}
+                default:
+                    return base.OnOptionsItemSelected(item);
+            }
+        }
 
         public void SetUpDrawerContent(NavigationView navigationView)
         {
