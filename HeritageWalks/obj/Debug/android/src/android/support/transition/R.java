@@ -3712,35 +3712,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background HeritageWalks.HeritageWalks:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit HeritageWalks.HeritageWalks:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked HeritageWalks.HeritageWalks:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd HeritageWalks.HeritageWalks:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions HeritageWalks.HeritageWalks:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft HeritageWalks.HeritageWalks:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight HeritageWalks.HeritageWalks:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart HeritageWalks.HeritageWalks:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation HeritageWalks.HeritageWalks:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout HeritageWalks.HeritageWalks:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions HeritageWalks.HeritageWalks:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider HeritageWalks.HeritageWalks:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation HeritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height HeritageWalks.HeritageWalks:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll HeritageWalks.HeritageWalks:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator HeritageWalks.HeritageWalks:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout HeritageWalks.HeritageWalks:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon HeritageWalks.HeritageWalks:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle HeritageWalks.HeritageWalks:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding HeritageWalks.HeritageWalks:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo HeritageWalks.HeritageWalks:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode HeritageWalks.HeritageWalks:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme HeritageWalks.HeritageWalks:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding HeritageWalks.HeritageWalks:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle HeritageWalks.HeritageWalks:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle HeritageWalks.HeritageWalks:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle HeritageWalks.HeritageWalks:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title HeritageWalks.HeritageWalks:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle HeritageWalks.HeritageWalks:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background heritageWalks.HeritageWalks:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit heritageWalks.HeritageWalks:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked heritageWalks.HeritageWalks:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd heritageWalks.HeritageWalks:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions heritageWalks.HeritageWalks:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft heritageWalks.HeritageWalks:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight heritageWalks.HeritageWalks:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart heritageWalks.HeritageWalks:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation heritageWalks.HeritageWalks:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout heritageWalks.HeritageWalks:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions heritageWalks.HeritageWalks:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider heritageWalks.HeritageWalks:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation heritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height heritageWalks.HeritageWalks:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll heritageWalks.HeritageWalks:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator heritageWalks.HeritageWalks:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout heritageWalks.HeritageWalks:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon heritageWalks.HeritageWalks:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle heritageWalks.HeritageWalks:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding heritageWalks.HeritageWalks:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo heritageWalks.HeritageWalks:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode heritageWalks.HeritageWalks:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme heritageWalks.HeritageWalks:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding heritageWalks.HeritageWalks:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle heritageWalks.HeritageWalks:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle heritageWalks.HeritageWalks:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle heritageWalks.HeritageWalks:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title heritageWalks.HeritageWalks:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle heritageWalks.HeritageWalks:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3783,17 +3783,17 @@ containing a value of this type.
             0x7f01007e
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#background}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:background
+          @attr name heritageWalks.HeritageWalks:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3801,11 +3801,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name HeritageWalks.HeritageWalks:backgroundSplit
+          @attr name heritageWalks.HeritageWalks:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3813,11 +3813,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name HeritageWalks.HeritageWalks:backgroundStacked
+          @attr name heritageWalks.HeritageWalks:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3829,11 +3829,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetEnd
+          @attr name heritageWalks.HeritageWalks:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3845,11 +3845,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetEndWithActions
+          @attr name heritageWalks.HeritageWalks:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3861,11 +3861,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetLeft
+          @attr name heritageWalks.HeritageWalks:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3877,11 +3877,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetRight
+          @attr name heritageWalks.HeritageWalks:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3893,11 +3893,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetStart
+          @attr name heritageWalks.HeritageWalks:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3909,21 +3909,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetStartWithNavigation
+          @attr name heritageWalks.HeritageWalks:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:customNavigationLayout
+          @attr name heritageWalks.HeritageWalks:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3941,21 +3941,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:displayOptions
+          @attr name heritageWalks.HeritageWalks:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#divider}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:divider
+          @attr name heritageWalks.HeritageWalks:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#elevation}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3967,11 +3967,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:elevation
+          @attr name heritageWalks.HeritageWalks:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#height}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3983,11 +3983,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:height
+          @attr name heritageWalks.HeritageWalks:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3997,51 +3997,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:hideOnContentScroll
+          @attr name heritageWalks.HeritageWalks:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:homeAsUpIndicator
+          @attr name heritageWalks.HeritageWalks:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:homeLayout
+          @attr name heritageWalks.HeritageWalks:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#icon}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:icon
+          @attr name heritageWalks.HeritageWalks:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:indeterminateProgressStyle
+          @attr name heritageWalks.HeritageWalks:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4053,21 +4053,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:itemPadding
+          @attr name heritageWalks.HeritageWalks:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#logo}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:logo
+          @attr name heritageWalks.HeritageWalks:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4081,21 +4081,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:navigationMode
+          @attr name heritageWalks.HeritageWalks:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:popupTheme
+          @attr name heritageWalks.HeritageWalks:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4107,21 +4107,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:progressBarPadding
+          @attr name heritageWalks.HeritageWalks:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:progressBarStyle
+          @attr name heritageWalks.HeritageWalks:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4131,21 +4131,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:subtitle
+          @attr name heritageWalks.HeritageWalks:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:subtitleTextStyle
+          @attr name heritageWalks.HeritageWalks:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#title}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4155,17 +4155,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:title
+          @attr name heritageWalks.HeritageWalks:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:titleTextStyle
+          @attr name heritageWalks.HeritageWalks:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4217,12 +4217,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background HeritageWalks.HeritageWalks:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit HeritageWalks.HeritageWalks:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout HeritageWalks.HeritageWalks:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height HeritageWalks.HeritageWalks:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle HeritageWalks.HeritageWalks:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle HeritageWalks.HeritageWalks:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background heritageWalks.HeritageWalks:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit heritageWalks.HeritageWalks:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout heritageWalks.HeritageWalks:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height heritageWalks.HeritageWalks:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle heritageWalks.HeritageWalks:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle heritageWalks.HeritageWalks:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4236,17 +4236,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01002f, 0x7f01003f
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#background}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:background
+          @attr name heritageWalks.HeritageWalks:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4254,21 +4254,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name HeritageWalks.HeritageWalks:backgroundSplit
+          @attr name heritageWalks.HeritageWalks:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:closeItemLayout
+          @attr name heritageWalks.HeritageWalks:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#height}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4280,27 +4280,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:height
+          @attr name heritageWalks.HeritageWalks:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:subtitleTextStyle
+          @attr name heritageWalks.HeritageWalks:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:titleTextStyle
+          @attr name heritageWalks.HeritageWalks:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4309,8 +4309,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable HeritageWalks.HeritageWalks:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount HeritageWalks.HeritageWalks:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable heritageWalks.HeritageWalks:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount heritageWalks.HeritageWalks:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4319,17 +4319,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010040, 0x7f010041
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:expandActivityOverflowButtonDrawable
+          @attr name heritageWalks.HeritageWalks:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4339,7 +4339,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:initialActivityCount
+          @attr name heritageWalks.HeritageWalks:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4349,12 +4349,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout HeritageWalks.HeritageWalks:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout HeritageWalks.HeritageWalks:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout HeritageWalks.HeritageWalks:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout HeritageWalks.HeritageWalks:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle HeritageWalks.HeritageWalks:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout HeritageWalks.HeritageWalks:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout heritageWalks.HeritageWalks:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout heritageWalks.HeritageWalks:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout heritageWalks.HeritageWalks:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout heritageWalks.HeritageWalks:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle heritageWalks.HeritageWalks:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout heritageWalks.HeritageWalks:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4375,47 +4375,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:buttonPanelSideLayout
+          @attr name heritageWalks.HeritageWalks:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:listItemLayout
+          @attr name heritageWalks.HeritageWalks:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:listLayout
+          @attr name heritageWalks.HeritageWalks:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:multiChoiceItemLayout
+          @attr name heritageWalks.HeritageWalks:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4425,17 +4425,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:showTitle
+          @attr name heritageWalks.HeritageWalks:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:singleChoiceItemLayout
+          @attr name heritageWalks.HeritageWalks:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4445,8 +4445,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation HeritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded HeritageWalks.HeritageWalks:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation heritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded heritageWalks.HeritageWalks:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4462,7 +4462,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#elevation}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4474,11 +4474,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:elevation
+          @attr name heritageWalks.HeritageWalks:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#expanded}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4488,7 +4488,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:expanded
+          @attr name heritageWalks.HeritageWalks:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4497,8 +4497,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed HeritageWalks.HeritageWalks:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible HeritageWalks.HeritageWalks:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed heritageWalks.HeritageWalks:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible heritageWalks.HeritageWalks:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4507,7 +4507,7 @@ containing a value of this type.
             0x7f010109, 0x7f01010a
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4517,11 +4517,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:state_collapsed
+          @attr name heritageWalks.HeritageWalks:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4531,7 +4531,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:state_collapsible
+          @attr name heritageWalks.HeritageWalks:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4540,8 +4540,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags HeritageWalks.HeritageWalks:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator HeritageWalks.HeritageWalks:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags heritageWalks.HeritageWalks:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator heritageWalks.HeritageWalks:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4550,7 +4550,7 @@ containing a value of this type.
             0x7f01010b, 0x7f01010c
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4566,17 +4566,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:layout_scrollFlags
+          @attr name heritageWalks.HeritageWalks:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:layout_scrollInterpolator
+          @attr name heritageWalks.HeritageWalks:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4586,9 +4586,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat HeritageWalks.HeritageWalks:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint HeritageWalks.HeritageWalks:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode HeritageWalks.HeritageWalks:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat heritageWalks.HeritageWalks:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint heritageWalks.HeritageWalks:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode heritageWalks.HeritageWalks:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4605,17 +4605,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:srcCompat
+          @attr name heritageWalks.HeritageWalks:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4626,11 +4626,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tint
+          @attr name heritageWalks.HeritageWalks:tint
         */
         public static final int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4646,7 +4646,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:tintMode
+          @attr name heritageWalks.HeritageWalks:tintMode
         */
         public static final int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4656,9 +4656,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark HeritageWalks.HeritageWalks:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint HeritageWalks.HeritageWalks:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode HeritageWalks.HeritageWalks:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark heritageWalks.HeritageWalks:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint heritageWalks.HeritageWalks:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode heritageWalks.HeritageWalks:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4675,17 +4675,17 @@ containing a value of this type.
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:tickMark
+          @attr name heritageWalks.HeritageWalks:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4696,11 +4696,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tickMarkTint
+          @attr name heritageWalks.HeritageWalks:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4717,7 +4717,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:tickMarkTintMode
+          @attr name heritageWalks.HeritageWalks:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4795,7 +4795,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps HeritageWalks.HeritageWalks:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps heritageWalks.HeritageWalks:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4810,14 +4810,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name HeritageWalks.HeritageWalks:textAllCaps
+          @attr name heritageWalks.HeritageWalks:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4826,122 +4826,122 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider HeritageWalks.HeritageWalks:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground HeritageWalks.HeritageWalks:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme HeritageWalks.HeritageWalks:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize HeritageWalks.HeritageWalks:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle HeritageWalks.HeritageWalks:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle HeritageWalks.HeritageWalks:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle HeritageWalks.HeritageWalks:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle HeritageWalks.HeritageWalks:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle HeritageWalks.HeritageWalks:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme HeritageWalks.HeritageWalks:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme HeritageWalks.HeritageWalks:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle HeritageWalks.HeritageWalks:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle HeritageWalks.HeritageWalks:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance HeritageWalks.HeritageWalks:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor HeritageWalks.HeritageWalks:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground HeritageWalks.HeritageWalks:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle HeritageWalks.HeritageWalks:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable HeritageWalks.HeritageWalks:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable HeritageWalks.HeritageWalks:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable HeritageWalks.HeritageWalks:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable HeritageWalks.HeritageWalks:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable HeritageWalks.HeritageWalks:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle HeritageWalks.HeritageWalks:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable HeritageWalks.HeritageWalks:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable HeritageWalks.HeritageWalks:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground HeritageWalks.HeritageWalks:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle HeritageWalks.HeritageWalks:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable HeritageWalks.HeritageWalks:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle HeritageWalks.HeritageWalks:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle HeritageWalks.HeritageWalks:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle HeritageWalks.HeritageWalks:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle HeritageWalks.HeritageWalks:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons HeritageWalks.HeritageWalks:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle HeritageWalks.HeritageWalks:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme HeritageWalks.HeritageWalks:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider heritageWalks.HeritageWalks:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground heritageWalks.HeritageWalks:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme heritageWalks.HeritageWalks:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize heritageWalks.HeritageWalks:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle heritageWalks.HeritageWalks:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle heritageWalks.HeritageWalks:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle heritageWalks.HeritageWalks:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle heritageWalks.HeritageWalks:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle heritageWalks.HeritageWalks:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme heritageWalks.HeritageWalks:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme heritageWalks.HeritageWalks:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle heritageWalks.HeritageWalks:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle heritageWalks.HeritageWalks:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance heritageWalks.HeritageWalks:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor heritageWalks.HeritageWalks:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground heritageWalks.HeritageWalks:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle heritageWalks.HeritageWalks:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable heritageWalks.HeritageWalks:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable heritageWalks.HeritageWalks:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable heritageWalks.HeritageWalks:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable heritageWalks.HeritageWalks:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable heritageWalks.HeritageWalks:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle heritageWalks.HeritageWalks:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable heritageWalks.HeritageWalks:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable heritageWalks.HeritageWalks:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground heritageWalks.HeritageWalks:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle heritageWalks.HeritageWalks:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable heritageWalks.HeritageWalks:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle heritageWalks.HeritageWalks:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle heritageWalks.HeritageWalks:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle heritageWalks.HeritageWalks:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle heritageWalks.HeritageWalks:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons heritageWalks.HeritageWalks:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle heritageWalks.HeritageWalks:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme heritageWalks.HeritageWalks:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle HeritageWalks.HeritageWalks:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle HeritageWalks.HeritageWalks:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle HeritageWalks.HeritageWalks:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle HeritageWalks.HeritageWalks:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle HeritageWalks.HeritageWalks:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle HeritageWalks.HeritageWalks:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle HeritageWalks.HeritageWalks:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle HeritageWalks.HeritageWalks:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall HeritageWalks.HeritageWalks:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle HeritageWalks.HeritageWalks:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle HeritageWalks.HeritageWalks:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent HeritageWalks.HeritageWalks:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating HeritageWalks.HeritageWalks:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal HeritageWalks.HeritageWalks:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated HeritageWalks.HeritageWalks:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight HeritageWalks.HeritageWalks:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal HeritageWalks.HeritageWalks:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary HeritageWalks.HeritageWalks:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark HeritageWalks.HeritageWalks:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal HeritageWalks.HeritageWalks:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground HeritageWalks.HeritageWalks:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding HeritageWalks.HeritageWalks:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme HeritageWalks.HeritageWalks:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal HeritageWalks.HeritageWalks:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical HeritageWalks.HeritageWalks:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle HeritageWalks.HeritageWalks:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight HeritageWalks.HeritageWalks:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground HeritageWalks.HeritageWalks:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor HeritageWalks.HeritageWalks:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle HeritageWalks.HeritageWalks:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator HeritageWalks.HeritageWalks:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle HeritageWalks.HeritageWalks:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator HeritageWalks.HeritageWalks:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog HeritageWalks.HeritageWalks:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle HeritageWalks.HeritageWalks:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle HeritageWalks.HeritageWalks:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight HeritageWalks.HeritageWalks:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge HeritageWalks.HeritageWalks:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall HeritageWalks.HeritageWalks:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft HeritageWalks.HeritageWalks:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight HeritageWalks.HeritageWalks:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground HeritageWalks.HeritageWalks:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme HeritageWalks.HeritageWalks:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth HeritageWalks.HeritageWalks:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle HeritageWalks.HeritageWalks:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle HeritageWalks.HeritageWalks:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle HeritageWalks.HeritageWalks:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle HeritageWalks.HeritageWalks:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator HeritageWalks.HeritageWalks:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall HeritageWalks.HeritageWalks:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle HeritageWalks.HeritageWalks:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle HeritageWalks.HeritageWalks:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground HeritageWalks.HeritageWalks:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless HeritageWalks.HeritageWalks:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle HeritageWalks.HeritageWalks:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle HeritageWalks.HeritageWalks:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle HeritageWalks.HeritageWalks:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu HeritageWalks.HeritageWalks:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem HeritageWalks.HeritageWalks:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary HeritageWalks.HeritageWalks:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall HeritageWalks.HeritageWalks:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader HeritageWalks.HeritageWalks:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle HeritageWalks.HeritageWalks:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle HeritageWalks.HeritageWalks:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu HeritageWalks.HeritageWalks:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem HeritageWalks.HeritageWalks:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl HeritageWalks.HeritageWalks:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle HeritageWalks.HeritageWalks:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle HeritageWalks.HeritageWalks:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar HeritageWalks.HeritageWalks:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay HeritageWalks.HeritageWalks:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay HeritageWalks.HeritageWalks:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor HeritageWalks.HeritageWalks:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor HeritageWalks.HeritageWalks:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor HeritageWalks.HeritageWalks:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor HeritageWalks.HeritageWalks:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor HeritageWalks.HeritageWalks:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor HeritageWalks.HeritageWalks:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle HeritageWalks.HeritageWalks:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle heritageWalks.HeritageWalks:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle heritageWalks.HeritageWalks:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle heritageWalks.HeritageWalks:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle heritageWalks.HeritageWalks:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle heritageWalks.HeritageWalks:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle heritageWalks.HeritageWalks:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle heritageWalks.HeritageWalks:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle heritageWalks.HeritageWalks:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall heritageWalks.HeritageWalks:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle heritageWalks.HeritageWalks:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle heritageWalks.HeritageWalks:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent heritageWalks.HeritageWalks:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating heritageWalks.HeritageWalks:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal heritageWalks.HeritageWalks:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated heritageWalks.HeritageWalks:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight heritageWalks.HeritageWalks:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal heritageWalks.HeritageWalks:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary heritageWalks.HeritageWalks:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark heritageWalks.HeritageWalks:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal heritageWalks.HeritageWalks:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground heritageWalks.HeritageWalks:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding heritageWalks.HeritageWalks:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme heritageWalks.HeritageWalks:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal heritageWalks.HeritageWalks:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical heritageWalks.HeritageWalks:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle heritageWalks.HeritageWalks:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight heritageWalks.HeritageWalks:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground heritageWalks.HeritageWalks:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor heritageWalks.HeritageWalks:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle heritageWalks.HeritageWalks:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator heritageWalks.HeritageWalks:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle heritageWalks.HeritageWalks:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator heritageWalks.HeritageWalks:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog heritageWalks.HeritageWalks:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle heritageWalks.HeritageWalks:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle heritageWalks.HeritageWalks:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight heritageWalks.HeritageWalks:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge heritageWalks.HeritageWalks:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall heritageWalks.HeritageWalks:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft heritageWalks.HeritageWalks:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight heritageWalks.HeritageWalks:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground heritageWalks.HeritageWalks:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme heritageWalks.HeritageWalks:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth heritageWalks.HeritageWalks:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle heritageWalks.HeritageWalks:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle heritageWalks.HeritageWalks:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle heritageWalks.HeritageWalks:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle heritageWalks.HeritageWalks:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator heritageWalks.HeritageWalks:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall heritageWalks.HeritageWalks:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle heritageWalks.HeritageWalks:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle heritageWalks.HeritageWalks:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground heritageWalks.HeritageWalks:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless heritageWalks.HeritageWalks:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle heritageWalks.HeritageWalks:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle heritageWalks.HeritageWalks:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle heritageWalks.HeritageWalks:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu heritageWalks.HeritageWalks:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem heritageWalks.HeritageWalks:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary heritageWalks.HeritageWalks:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall heritageWalks.HeritageWalks:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader heritageWalks.HeritageWalks:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle heritageWalks.HeritageWalks:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle heritageWalks.HeritageWalks:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu heritageWalks.HeritageWalks:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem heritageWalks.HeritageWalks:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl heritageWalks.HeritageWalks:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle heritageWalks.HeritageWalks:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle heritageWalks.HeritageWalks:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar heritageWalks.HeritageWalks:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay heritageWalks.HeritageWalks:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay heritageWalks.HeritageWalks:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor heritageWalks.HeritageWalks:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor heritageWalks.HeritageWalks:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor heritageWalks.HeritageWalks:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor heritageWalks.HeritageWalks:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor heritageWalks.HeritageWalks:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor heritageWalks.HeritageWalks:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle heritageWalks.HeritageWalks:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5092,37 +5092,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100bd, 0x7f0100be, 0x7f0100bf, 0x7f0100c0
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarDivider
+          @attr name heritageWalks.HeritageWalks:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarItemBackground
+          @attr name heritageWalks.HeritageWalks:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarPopupTheme
+          @attr name heritageWalks.HeritageWalks:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5142,111 +5142,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:actionBarSize
+          @attr name heritageWalks.HeritageWalks:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarSplitStyle
+          @attr name heritageWalks.HeritageWalks:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarStyle
+          @attr name heritageWalks.HeritageWalks:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarTabBarStyle
+          @attr name heritageWalks.HeritageWalks:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarTabStyle
+          @attr name heritageWalks.HeritageWalks:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarTabTextStyle
+          @attr name heritageWalks.HeritageWalks:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarTheme
+          @attr name heritageWalks.HeritageWalks:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionBarWidgetTheme
+          @attr name heritageWalks.HeritageWalks:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionButtonStyle
+          @attr name heritageWalks.HeritageWalks:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionDropDownStyle
+          @attr name heritageWalks.HeritageWalks:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionMenuTextAppearance
+          @attr name heritageWalks.HeritageWalks:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5254,181 +5254,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionMenuTextColor
+          @attr name heritageWalks.HeritageWalks:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeBackground
+          @attr name heritageWalks.HeritageWalks:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeCloseButtonStyle
+          @attr name heritageWalks.HeritageWalks:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeCloseDrawable
+          @attr name heritageWalks.HeritageWalks:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeCopyDrawable
+          @attr name heritageWalks.HeritageWalks:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeCutDrawable
+          @attr name heritageWalks.HeritageWalks:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeFindDrawable
+          @attr name heritageWalks.HeritageWalks:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModePasteDrawable
+          @attr name heritageWalks.HeritageWalks:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModePopupWindowStyle
+          @attr name heritageWalks.HeritageWalks:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeSelectAllDrawable
+          @attr name heritageWalks.HeritageWalks:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeShareDrawable
+          @attr name heritageWalks.HeritageWalks:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeSplitBackground
+          @attr name heritageWalks.HeritageWalks:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeStyle
+          @attr name heritageWalks.HeritageWalks:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionModeWebSearchDrawable
+          @attr name heritageWalks.HeritageWalks:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionOverflowButtonStyle
+          @attr name heritageWalks.HeritageWalks:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionOverflowMenuStyle
+          @attr name heritageWalks.HeritageWalks:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:activityChooserViewStyle
+          @attr name heritageWalks.HeritageWalks:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:alertDialogButtonGroupStyle
+          @attr name heritageWalks.HeritageWalks:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5438,27 +5438,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:alertDialogCenterButtons
+          @attr name heritageWalks.HeritageWalks:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:alertDialogStyle
+          @attr name heritageWalks.HeritageWalks:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:alertDialogTheme
+          @attr name heritageWalks.HeritageWalks:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5474,117 +5474,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:autoCompleteTextViewStyle
+          @attr name heritageWalks.HeritageWalks:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:borderlessButtonStyle
+          @attr name heritageWalks.HeritageWalks:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:buttonBarButtonStyle
+          @attr name heritageWalks.HeritageWalks:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:buttonBarNegativeButtonStyle
+          @attr name heritageWalks.HeritageWalks:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:buttonBarNeutralButtonStyle
+          @attr name heritageWalks.HeritageWalks:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:buttonBarPositiveButtonStyle
+          @attr name heritageWalks.HeritageWalks:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:buttonBarStyle
+          @attr name heritageWalks.HeritageWalks:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:buttonStyle
+          @attr name heritageWalks.HeritageWalks:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:buttonStyleSmall
+          @attr name heritageWalks.HeritageWalks:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:checkboxStyle
+          @attr name heritageWalks.HeritageWalks:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:checkedTextViewStyle
+          @attr name heritageWalks.HeritageWalks:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5595,11 +5595,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:colorAccent
+          @attr name heritageWalks.HeritageWalks:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5610,11 +5610,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:colorBackgroundFloating
+          @attr name heritageWalks.HeritageWalks:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5625,11 +5625,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:colorButtonNormal
+          @attr name heritageWalks.HeritageWalks:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5640,11 +5640,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:colorControlActivated
+          @attr name heritageWalks.HeritageWalks:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5655,11 +5655,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:colorControlHighlight
+          @attr name heritageWalks.HeritageWalks:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5670,11 +5670,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:colorControlNormal
+          @attr name heritageWalks.HeritageWalks:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5685,11 +5685,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:colorPrimary
+          @attr name heritageWalks.HeritageWalks:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5700,11 +5700,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:colorPrimaryDark
+          @attr name heritageWalks.HeritageWalks:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5715,21 +5715,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:colorSwitchThumbNormal
+          @attr name heritageWalks.HeritageWalks:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:controlBackground
+          @attr name heritageWalks.HeritageWalks:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5741,51 +5741,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:dialogPreferredPadding
+          @attr name heritageWalks.HeritageWalks:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:dialogTheme
+          @attr name heritageWalks.HeritageWalks:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:dividerHorizontal
+          @attr name heritageWalks.HeritageWalks:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:dividerVertical
+          @attr name heritageWalks.HeritageWalks:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:dropDownListViewStyle
+          @attr name heritageWalks.HeritageWalks:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5797,21 +5797,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:dropdownListPreferredItemHeight
+          @attr name heritageWalks.HeritageWalks:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:editTextBackground
+          @attr name heritageWalks.HeritageWalks:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5819,81 +5819,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name HeritageWalks.HeritageWalks:editTextColor
+          @attr name heritageWalks.HeritageWalks:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:editTextStyle
+          @attr name heritageWalks.HeritageWalks:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:homeAsUpIndicator
+          @attr name heritageWalks.HeritageWalks:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:imageButtonStyle
+          @attr name heritageWalks.HeritageWalks:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:listChoiceBackgroundIndicator
+          @attr name heritageWalks.HeritageWalks:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:listDividerAlertDialog
+          @attr name heritageWalks.HeritageWalks:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:listMenuViewStyle
+          @attr name heritageWalks.HeritageWalks:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:listPopupWindowStyle
+          @attr name heritageWalks.HeritageWalks:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5905,11 +5905,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:listPreferredItemHeight
+          @attr name heritageWalks.HeritageWalks:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5921,11 +5921,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:listPreferredItemHeightLarge
+          @attr name heritageWalks.HeritageWalks:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5937,11 +5937,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:listPreferredItemHeightSmall
+          @attr name heritageWalks.HeritageWalks:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5953,11 +5953,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:listPreferredItemPaddingLeft
+          @attr name heritageWalks.HeritageWalks:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5969,31 +5969,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:listPreferredItemPaddingRight
+          @attr name heritageWalks.HeritageWalks:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:panelBackground
+          @attr name heritageWalks.HeritageWalks:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:panelMenuListTheme
+          @attr name heritageWalks.HeritageWalks:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6005,221 +6005,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:panelMenuListWidth
+          @attr name heritageWalks.HeritageWalks:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:popupMenuStyle
+          @attr name heritageWalks.HeritageWalks:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:popupWindowStyle
+          @attr name heritageWalks.HeritageWalks:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:radioButtonStyle
+          @attr name heritageWalks.HeritageWalks:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:ratingBarStyle
+          @attr name heritageWalks.HeritageWalks:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:ratingBarStyleIndicator
+          @attr name heritageWalks.HeritageWalks:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:ratingBarStyleSmall
+          @attr name heritageWalks.HeritageWalks:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:searchViewStyle
+          @attr name heritageWalks.HeritageWalks:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:seekBarStyle
+          @attr name heritageWalks.HeritageWalks:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:selectableItemBackground
+          @attr name heritageWalks.HeritageWalks:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:selectableItemBackgroundBorderless
+          @attr name heritageWalks.HeritageWalks:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:spinnerDropDownItemStyle
+          @attr name heritageWalks.HeritageWalks:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:spinnerStyle
+          @attr name heritageWalks.HeritageWalks:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:switchStyle
+          @attr name heritageWalks.HeritageWalks:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textAppearanceLargePopupMenu
+          @attr name heritageWalks.HeritageWalks:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textAppearanceListItem
+          @attr name heritageWalks.HeritageWalks:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textAppearanceListItemSecondary
+          @attr name heritageWalks.HeritageWalks:textAppearanceListItemSecondary
         */
         public static final int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textAppearanceListItemSmall
+          @attr name heritageWalks.HeritageWalks:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textAppearancePopupMenuHeader
+          @attr name heritageWalks.HeritageWalks:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textAppearanceSearchResultSubtitle
+          @attr name heritageWalks.HeritageWalks:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textAppearanceSearchResultTitle
+          @attr name heritageWalks.HeritageWalks:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textAppearanceSmallPopupMenu
+          @attr name heritageWalks.HeritageWalks:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6227,11 +6227,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textColorAlertDialogListItem
+          @attr name heritageWalks.HeritageWalks:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6239,31 +6239,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name HeritageWalks.HeritageWalks:textColorSearchUrl
+          @attr name heritageWalks.HeritageWalks:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:toolbarNavigationButtonStyle
+          @attr name heritageWalks.HeritageWalks:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:toolbarStyle
+          @attr name heritageWalks.HeritageWalks:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6273,11 +6273,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowActionBar
+          @attr name heritageWalks.HeritageWalks:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6287,11 +6287,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowActionBarOverlay
+          @attr name heritageWalks.HeritageWalks:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6301,11 +6301,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowActionModeOverlay
+          @attr name heritageWalks.HeritageWalks:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6320,11 +6320,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowFixedHeightMajor
+          @attr name heritageWalks.HeritageWalks:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6339,11 +6339,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowFixedHeightMinor
+          @attr name heritageWalks.HeritageWalks:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6358,11 +6358,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowFixedWidthMajor
+          @attr name heritageWalks.HeritageWalks:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6377,11 +6377,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowFixedWidthMinor
+          @attr name heritageWalks.HeritageWalks:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6396,11 +6396,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowMinWidthMajor
+          @attr name heritageWalks.HeritageWalks:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6415,11 +6415,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowMinWidthMinor
+          @attr name heritageWalks.HeritageWalks:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6429,7 +6429,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:windowNoTitle
+          @attr name heritageWalks.HeritageWalks:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6438,11 +6438,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation HeritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground HeritageWalks.HeritageWalks:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint HeritageWalks.HeritageWalks:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor HeritageWalks.HeritageWalks:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu HeritageWalks.HeritageWalks:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation heritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground heritageWalks.HeritageWalks:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint heritageWalks.HeritageWalks:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor heritageWalks.HeritageWalks:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu heritageWalks.HeritageWalks:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6455,7 +6455,7 @@ containing a value of this type.
             0x7f010136
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#elevation}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6467,21 +6467,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:elevation
+          @attr name heritageWalks.HeritageWalks:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:itemBackground
+          @attr name heritageWalks.HeritageWalks:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6492,11 +6492,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:itemIconTint
+          @attr name heritageWalks.HeritageWalks:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6507,17 +6507,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:itemTextColor
+          @attr name heritageWalks.HeritageWalks:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#menu}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:menu
+          @attr name heritageWalks.HeritageWalks:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6526,9 +6526,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable HeritageWalks.HeritageWalks:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight HeritageWalks.HeritageWalks:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed HeritageWalks.HeritageWalks:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable heritageWalks.HeritageWalks:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight heritageWalks.HeritageWalks:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed heritageWalks.HeritageWalks:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6538,7 +6538,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01010d, 0x7f01010e, 0x7f01010f
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6548,11 +6548,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:behavior_hideable
+          @attr name heritageWalks.HeritageWalks:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6572,11 +6572,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:behavior_peekHeight
+          @attr name heritageWalks.HeritageWalks:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6586,7 +6586,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:behavior_skipCollapsed
+          @attr name heritageWalks.HeritageWalks:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6595,7 +6595,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking HeritageWalks.HeritageWalks:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking heritageWalks.HeritageWalks:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6603,7 +6603,7 @@ containing a value of this type.
             0x7f0100c1
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6613,7 +6613,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:allowStacking
+          @attr name heritageWalks.HeritageWalks:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6622,22 +6622,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity HeritageWalks.HeritageWalks:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance HeritageWalks.HeritageWalks:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim HeritageWalks.HeritageWalks:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity HeritageWalks.HeritageWalks:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin HeritageWalks.HeritageWalks:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom HeritageWalks.HeritageWalks:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd HeritageWalks.HeritageWalks:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart HeritageWalks.HeritageWalks:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop HeritageWalks.HeritageWalks:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance HeritageWalks.HeritageWalks:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration HeritageWalks.HeritageWalks:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger HeritageWalks.HeritageWalks:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim HeritageWalks.HeritageWalks:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title HeritageWalks.HeritageWalks:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled HeritageWalks.HeritageWalks:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId HeritageWalks.HeritageWalks:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity heritageWalks.HeritageWalks:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance heritageWalks.HeritageWalks:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim heritageWalks.HeritageWalks:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity heritageWalks.HeritageWalks:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin heritageWalks.HeritageWalks:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom heritageWalks.HeritageWalks:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd heritageWalks.HeritageWalks:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart heritageWalks.HeritageWalks:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop heritageWalks.HeritageWalks:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance heritageWalks.HeritageWalks:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration heritageWalks.HeritageWalks:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger heritageWalks.HeritageWalks:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim heritageWalks.HeritageWalks:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title heritageWalks.HeritageWalks:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled heritageWalks.HeritageWalks:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId heritageWalks.HeritageWalks:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6663,7 +6663,7 @@ containing a value of this type.
             0x7f01011b, 0x7f01011c, 0x7f01011d, 0x7f01011e
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6684,21 +6684,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:collapsedTitleGravity
+          @attr name heritageWalks.HeritageWalks:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:collapsedTitleTextAppearance
+          @attr name heritageWalks.HeritageWalks:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6709,11 +6709,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentScrim
+          @attr name heritageWalks.HeritageWalks:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6734,11 +6734,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:expandedTitleGravity
+          @attr name heritageWalks.HeritageWalks:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6750,11 +6750,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:expandedTitleMargin
+          @attr name heritageWalks.HeritageWalks:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6766,11 +6766,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:expandedTitleMarginBottom
+          @attr name heritageWalks.HeritageWalks:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6782,11 +6782,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:expandedTitleMarginEnd
+          @attr name heritageWalks.HeritageWalks:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6798,11 +6798,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:expandedTitleMarginStart
+          @attr name heritageWalks.HeritageWalks:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6814,21 +6814,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:expandedTitleMarginTop
+          @attr name heritageWalks.HeritageWalks:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:expandedTitleTextAppearance
+          @attr name heritageWalks.HeritageWalks:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6838,11 +6838,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:scrimAnimationDuration
+          @attr name heritageWalks.HeritageWalks:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6854,11 +6854,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:scrimVisibleHeightTrigger
+          @attr name heritageWalks.HeritageWalks:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6869,11 +6869,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:statusBarScrim
+          @attr name heritageWalks.HeritageWalks:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#title}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6883,11 +6883,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:title
+          @attr name heritageWalks.HeritageWalks:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6897,17 +6897,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:titleEnabled
+          @attr name heritageWalks.HeritageWalks:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:toolbarId
+          @attr name heritageWalks.HeritageWalks:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -6916,8 +6916,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode HeritageWalks.HeritageWalks:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier HeritageWalks.HeritageWalks:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode heritageWalks.HeritageWalks:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier heritageWalks.HeritageWalks:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -6926,7 +6926,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01011f, 0x7f010120
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6940,11 +6940,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:layout_collapseMode
+          @attr name heritageWalks.HeritageWalks:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6954,7 +6954,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:layout_collapseParallaxMultiplier
+          @attr name heritageWalks.HeritageWalks:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6963,7 +6963,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha HeritageWalks.HeritageWalks:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha heritageWalks.HeritageWalks:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6975,7 +6975,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100c2
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#alpha}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6985,7 +6985,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:alpha
+          @attr name heritageWalks.HeritageWalks:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -7007,8 +7007,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint HeritageWalks.HeritageWalks:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode HeritageWalks.HeritageWalks:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint heritageWalks.HeritageWalks:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode heritageWalks.HeritageWalks:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7024,7 +7024,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7035,11 +7035,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:buttonTint
+          @attr name heritageWalks.HeritageWalks:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7055,7 +7055,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:buttonTintMode
+          @attr name heritageWalks.HeritageWalks:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7064,8 +7064,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines HeritageWalks.HeritageWalks:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground HeritageWalks.HeritageWalks:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines heritageWalks.HeritageWalks:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground heritageWalks.HeritageWalks:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7074,23 +7074,23 @@ containing a value of this type.
             0x7f010121, 0x7f010122
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#keylines}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:keylines
+          @attr name heritageWalks.HeritageWalks:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:statusBarBackground
+          @attr name heritageWalks.HeritageWalks:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7100,12 +7100,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor HeritageWalks.HeritageWalks:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity HeritageWalks.HeritageWalks:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior HeritageWalks.HeritageWalks:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges HeritageWalks.HeritageWalks:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge HeritageWalks.HeritageWalks:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline HeritageWalks.HeritageWalks:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor heritageWalks.HeritageWalks:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity heritageWalks.HeritageWalks:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior heritageWalks.HeritageWalks:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges heritageWalks.HeritageWalks:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge heritageWalks.HeritageWalks:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline heritageWalks.HeritageWalks:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7126,17 +7126,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:layout_anchor
+          @attr name heritageWalks.HeritageWalks:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7161,11 +7161,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:layout_anchorGravity
+          @attr name heritageWalks.HeritageWalks:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7175,11 +7175,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:layout_behavior
+          @attr name heritageWalks.HeritageWalks:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7198,11 +7198,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:layout_dodgeInsetEdges
+          @attr name heritageWalks.HeritageWalks:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7220,11 +7220,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:layout_insetEdge
+          @attr name heritageWalks.HeritageWalks:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7234,7 +7234,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:layout_keyline
+          @attr name heritageWalks.HeritageWalks:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7243,9 +7243,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme HeritageWalks.HeritageWalks:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle HeritageWalks.HeritageWalks:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError HeritageWalks.HeritageWalks:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme heritageWalks.HeritageWalks:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle heritageWalks.HeritageWalks:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError heritageWalks.HeritageWalks:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7255,27 +7255,27 @@ containing a value of this type.
             0x7f010129, 0x7f01012a, 0x7f01012b
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:bottomSheetDialogTheme
+          @attr name heritageWalks.HeritageWalks:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:bottomSheetStyle
+          @attr name heritageWalks.HeritageWalks:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7286,7 +7286,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:textColorError
+          @attr name heritageWalks.HeritageWalks:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7295,14 +7295,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength HeritageWalks.HeritageWalks:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength HeritageWalks.HeritageWalks:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength HeritageWalks.HeritageWalks:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color HeritageWalks.HeritageWalks:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize HeritageWalks.HeritageWalks:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars HeritageWalks.HeritageWalks:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars HeritageWalks.HeritageWalks:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness HeritageWalks.HeritageWalks:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength heritageWalks.HeritageWalks:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength heritageWalks.HeritageWalks:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength heritageWalks.HeritageWalks:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color heritageWalks.HeritageWalks:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize heritageWalks.HeritageWalks:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars heritageWalks.HeritageWalks:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars heritageWalks.HeritageWalks:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness heritageWalks.HeritageWalks:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7318,7 +7318,7 @@ containing a value of this type.
             0x7f0100c9, 0x7f0100ca, 0x7f0100cb, 0x7f0100cc
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7330,11 +7330,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:arrowHeadLength
+          @attr name heritageWalks.HeritageWalks:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7346,11 +7346,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:arrowShaftLength
+          @attr name heritageWalks.HeritageWalks:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#barLength}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7362,11 +7362,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:barLength
+          @attr name heritageWalks.HeritageWalks:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#color}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7377,11 +7377,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:color
+          @attr name heritageWalks.HeritageWalks:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7393,11 +7393,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:drawableSize
+          @attr name heritageWalks.HeritageWalks:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7409,11 +7409,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:gapBetweenBars
+          @attr name heritageWalks.HeritageWalks:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7423,11 +7423,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:spinBars
+          @attr name heritageWalks.HeritageWalks:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#thickness}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7439,7 +7439,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:thickness
+          @attr name heritageWalks.HeritageWalks:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7448,14 +7448,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint HeritageWalks.HeritageWalks:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode HeritageWalks.HeritageWalks:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth HeritageWalks.HeritageWalks:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation HeritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize HeritageWalks.HeritageWalks:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ HeritageWalks.HeritageWalks:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor HeritageWalks.HeritageWalks:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding HeritageWalks.HeritageWalks:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint heritageWalks.HeritageWalks:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode heritageWalks.HeritageWalks:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth heritageWalks.HeritageWalks:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation heritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize heritageWalks.HeritageWalks:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ heritageWalks.HeritageWalks:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor heritageWalks.HeritageWalks:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding heritageWalks.HeritageWalks:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7471,7 +7471,7 @@ containing a value of this type.
             0x7f01012d, 0x7f01012e, 0x7f01012f, 0x7f010130
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7482,11 +7482,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:backgroundTint
+          @attr name heritageWalks.HeritageWalks:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7502,11 +7502,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:backgroundTintMode
+          @attr name heritageWalks.HeritageWalks:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7518,11 +7518,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:borderWidth
+          @attr name heritageWalks.HeritageWalks:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#elevation}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7534,11 +7534,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:elevation
+          @attr name heritageWalks.HeritageWalks:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7552,11 +7552,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:fabSize
+          @attr name heritageWalks.HeritageWalks:fabSize
         */
         public static final int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7568,11 +7568,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:pressedTranslationZ
+          @attr name heritageWalks.HeritageWalks:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7583,11 +7583,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:rippleColor
+          @attr name heritageWalks.HeritageWalks:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7597,7 +7597,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:useCompatPadding
+          @attr name heritageWalks.HeritageWalks:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 7;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7606,7 +7606,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide HeritageWalks.HeritageWalks:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide heritageWalks.HeritageWalks:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7614,7 +7614,7 @@ containing a value of this type.
             0x7f010131
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7624,7 +7624,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:behavior_autoHide
+          @attr name heritageWalks.HeritageWalks:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7635,7 +7635,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding HeritageWalks.HeritageWalks:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding heritageWalks.HeritageWalks:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7657,7 +7657,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -7667,7 +7667,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:foregroundInsidePadding
+          @attr name heritageWalks.HeritageWalks:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7681,10 +7681,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider HeritageWalks.HeritageWalks:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding HeritageWalks.HeritageWalks:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild HeritageWalks.HeritageWalks:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers HeritageWalks.HeritageWalks:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider heritageWalks.HeritageWalks:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding heritageWalks.HeritageWalks:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild heritageWalks.HeritageWalks:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers heritageWalks.HeritageWalks:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7732,17 +7732,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#divider}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:divider
+          @attr name heritageWalks.HeritageWalks:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7754,11 +7754,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:dividerPadding
+          @attr name heritageWalks.HeritageWalks:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7768,11 +7768,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:measureWithLargestChild
+          @attr name heritageWalks.HeritageWalks:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7787,7 +7787,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:showDividers
+          @attr name heritageWalks.HeritageWalks:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -7866,9 +7866,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop HeritageWalks.HeritageWalks:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio HeritageWalks.HeritageWalks:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust HeritageWalks.HeritageWalks:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop heritageWalks.HeritageWalks:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio heritageWalks.HeritageWalks:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust heritageWalks.HeritageWalks:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -7878,7 +7878,7 @@ containing a value of this type.
             0x7f010017, 0x7f010018, 0x7f010019
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -7888,11 +7888,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:circleCrop
+          @attr name heritageWalks.HeritageWalks:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -7902,11 +7902,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:imageAspectRatio
+          @attr name heritageWalks.HeritageWalks:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -7920,7 +7920,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:imageAspectRatioAdjust
+          @attr name heritageWalks.HeritageWalks:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MapAttrs.
@@ -7929,29 +7929,29 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MapAttrs_ambientEnabled HeritageWalks.HeritageWalks:ambientEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraBearing HeritageWalks.HeritageWalks:cameraBearing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference HeritageWalks.HeritageWalks:cameraMaxZoomPreference}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference HeritageWalks.HeritageWalks:cameraMinZoomPreference}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLat HeritageWalks.HeritageWalks:cameraTargetLat}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLng HeritageWalks.HeritageWalks:cameraTargetLng}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTilt HeritageWalks.HeritageWalks:cameraTilt}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraZoom HeritageWalks.HeritageWalks:cameraZoom}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude HeritageWalks.HeritageWalks:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude HeritageWalks.HeritageWalks:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude HeritageWalks.HeritageWalks:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude HeritageWalks.HeritageWalks:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_liteMode HeritageWalks.HeritageWalks:liteMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_mapType HeritageWalks.HeritageWalks:mapType}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiCompass HeritageWalks.HeritageWalks:uiCompass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiMapToolbar HeritageWalks.HeritageWalks:uiMapToolbar}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiRotateGestures HeritageWalks.HeritageWalks:uiRotateGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiScrollGestures HeritageWalks.HeritageWalks:uiScrollGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiTiltGestures HeritageWalks.HeritageWalks:uiTiltGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomControls HeritageWalks.HeritageWalks:uiZoomControls}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomGestures HeritageWalks.HeritageWalks:uiZoomGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_useViewLifecycle HeritageWalks.HeritageWalks:useViewLifecycle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_zOrderOnTop HeritageWalks.HeritageWalks:zOrderOnTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_ambientEnabled heritageWalks.HeritageWalks:ambientEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraBearing heritageWalks.HeritageWalks:cameraBearing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference heritageWalks.HeritageWalks:cameraMaxZoomPreference}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference heritageWalks.HeritageWalks:cameraMinZoomPreference}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLat heritageWalks.HeritageWalks:cameraTargetLat}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLng heritageWalks.HeritageWalks:cameraTargetLng}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTilt heritageWalks.HeritageWalks:cameraTilt}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraZoom heritageWalks.HeritageWalks:cameraZoom}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude heritageWalks.HeritageWalks:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude heritageWalks.HeritageWalks:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude heritageWalks.HeritageWalks:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude heritageWalks.HeritageWalks:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_liteMode heritageWalks.HeritageWalks:liteMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_mapType heritageWalks.HeritageWalks:mapType}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiCompass heritageWalks.HeritageWalks:uiCompass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiMapToolbar heritageWalks.HeritageWalks:uiMapToolbar}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiRotateGestures heritageWalks.HeritageWalks:uiRotateGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiScrollGestures heritageWalks.HeritageWalks:uiScrollGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiTiltGestures heritageWalks.HeritageWalks:uiTiltGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomControls heritageWalks.HeritageWalks:uiZoomControls}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomGestures heritageWalks.HeritageWalks:uiZoomGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_useViewLifecycle heritageWalks.HeritageWalks:useViewLifecycle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_zOrderOnTop heritageWalks.HeritageWalks:zOrderOnTop}</code></td><td></td></tr>
            </table>
            @see #MapAttrs_ambientEnabled
            @see #MapAttrs_cameraBearing
@@ -7986,7 +7986,7 @@ containing a value of this type.
             0x7f010014, 0x7f010015, 0x7f010016
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#ambientEnabled}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#ambientEnabled}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -7996,11 +7996,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:ambientEnabled
+          @attr name heritageWalks.HeritageWalks:ambientEnabled
         */
         public static final int MapAttrs_ambientEnabled = 16;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#cameraBearing}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#cameraBearing}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8010,11 +8010,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:cameraBearing
+          @attr name heritageWalks.HeritageWalks:cameraBearing
         */
         public static final int MapAttrs_cameraBearing = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#cameraMaxZoomPreference}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#cameraMaxZoomPreference}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8024,11 +8024,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:cameraMaxZoomPreference
+          @attr name heritageWalks.HeritageWalks:cameraMaxZoomPreference
         */
         public static final int MapAttrs_cameraMaxZoomPreference = 18;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#cameraMinZoomPreference}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#cameraMinZoomPreference}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8038,11 +8038,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:cameraMinZoomPreference
+          @attr name heritageWalks.HeritageWalks:cameraMinZoomPreference
         */
         public static final int MapAttrs_cameraMinZoomPreference = 17;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#cameraTargetLat}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#cameraTargetLat}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8052,11 +8052,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:cameraTargetLat
+          @attr name heritageWalks.HeritageWalks:cameraTargetLat
         */
         public static final int MapAttrs_cameraTargetLat = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#cameraTargetLng}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#cameraTargetLng}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8066,11 +8066,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:cameraTargetLng
+          @attr name heritageWalks.HeritageWalks:cameraTargetLng
         */
         public static final int MapAttrs_cameraTargetLng = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#cameraTilt}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#cameraTilt}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8080,11 +8080,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:cameraTilt
+          @attr name heritageWalks.HeritageWalks:cameraTilt
         */
         public static final int MapAttrs_cameraTilt = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#cameraZoom}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#cameraZoom}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8094,11 +8094,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:cameraZoom
+          @attr name heritageWalks.HeritageWalks:cameraZoom
         */
         public static final int MapAttrs_cameraZoom = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#latLngBoundsNorthEastLatitude}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#latLngBoundsNorthEastLatitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8108,11 +8108,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:latLngBoundsNorthEastLatitude
+          @attr name heritageWalks.HeritageWalks:latLngBoundsNorthEastLatitude
         */
         public static final int MapAttrs_latLngBoundsNorthEastLatitude = 21;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#latLngBoundsNorthEastLongitude}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#latLngBoundsNorthEastLongitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8122,11 +8122,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:latLngBoundsNorthEastLongitude
+          @attr name heritageWalks.HeritageWalks:latLngBoundsNorthEastLongitude
         */
         public static final int MapAttrs_latLngBoundsNorthEastLongitude = 22;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#latLngBoundsSouthWestLatitude}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#latLngBoundsSouthWestLatitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8136,11 +8136,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:latLngBoundsSouthWestLatitude
+          @attr name heritageWalks.HeritageWalks:latLngBoundsSouthWestLatitude
         */
         public static final int MapAttrs_latLngBoundsSouthWestLatitude = 19;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#latLngBoundsSouthWestLongitude}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#latLngBoundsSouthWestLongitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8150,11 +8150,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:latLngBoundsSouthWestLongitude
+          @attr name heritageWalks.HeritageWalks:latLngBoundsSouthWestLongitude
         */
         public static final int MapAttrs_latLngBoundsSouthWestLongitude = 20;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#liteMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#liteMode}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8164,11 +8164,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:liteMode
+          @attr name heritageWalks.HeritageWalks:liteMode
         */
         public static final int MapAttrs_liteMode = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#mapType}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#mapType}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8184,11 +8184,11 @@ containing a value of this type.
 <tr><td><code>terrain</code></td><td>3</td><td></td></tr>
 <tr><td><code>hybrid</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:mapType
+          @attr name heritageWalks.HeritageWalks:mapType
         */
         public static final int MapAttrs_mapType = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#uiCompass}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#uiCompass}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8198,11 +8198,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:uiCompass
+          @attr name heritageWalks.HeritageWalks:uiCompass
         */
         public static final int MapAttrs_uiCompass = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#uiMapToolbar}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#uiMapToolbar}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8212,11 +8212,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:uiMapToolbar
+          @attr name heritageWalks.HeritageWalks:uiMapToolbar
         */
         public static final int MapAttrs_uiMapToolbar = 15;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#uiRotateGestures}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#uiRotateGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8226,11 +8226,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:uiRotateGestures
+          @attr name heritageWalks.HeritageWalks:uiRotateGestures
         */
         public static final int MapAttrs_uiRotateGestures = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#uiScrollGestures}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#uiScrollGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8240,11 +8240,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:uiScrollGestures
+          @attr name heritageWalks.HeritageWalks:uiScrollGestures
         */
         public static final int MapAttrs_uiScrollGestures = 9;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#uiTiltGestures}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#uiTiltGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8254,11 +8254,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:uiTiltGestures
+          @attr name heritageWalks.HeritageWalks:uiTiltGestures
         */
         public static final int MapAttrs_uiTiltGestures = 10;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#uiZoomControls}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#uiZoomControls}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8268,11 +8268,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:uiZoomControls
+          @attr name heritageWalks.HeritageWalks:uiZoomControls
         */
         public static final int MapAttrs_uiZoomControls = 11;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#uiZoomGestures}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#uiZoomGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8282,11 +8282,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:uiZoomGestures
+          @attr name heritageWalks.HeritageWalks:uiZoomGestures
         */
         public static final int MapAttrs_uiZoomGestures = 12;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#useViewLifecycle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#useViewLifecycle}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8296,11 +8296,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:useViewLifecycle
+          @attr name heritageWalks.HeritageWalks:useViewLifecycle
         */
         public static final int MapAttrs_useViewLifecycle = 13;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#zOrderOnTop}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#zOrderOnTop}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -8310,7 +8310,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:zOrderOnTop
+          @attr name heritageWalks.HeritageWalks:zOrderOnTop
         */
         public static final int MapAttrs_zOrderOnTop = 14;
         /** Attributes that can be used with a MenuGroup.
@@ -8379,9 +8379,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout HeritageWalks.HeritageWalks:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass HeritageWalks.HeritageWalks:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass HeritageWalks.HeritageWalks:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout heritageWalks.HeritageWalks:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass heritageWalks.HeritageWalks:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass heritageWalks.HeritageWalks:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8395,7 +8395,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction HeritageWalks.HeritageWalks:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction heritageWalks.HeritageWalks:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8423,17 +8423,17 @@ containing a value of this type.
             0x7f0100d3
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:actionLayout
+          @attr name heritageWalks.HeritageWalks:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8443,11 +8443,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:actionProviderClass
+          @attr name heritageWalks.HeritageWalks:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8457,7 +8457,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:actionViewClass
+          @attr name heritageWalks.HeritageWalks:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -8539,7 +8539,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8555,7 +8555,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:showAsAction
+          @attr name heritageWalks.HeritageWalks:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -8571,8 +8571,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing HeritageWalks.HeritageWalks:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow HeritageWalks.HeritageWalks:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing heritageWalks.HeritageWalks:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow heritageWalks.HeritageWalks:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -8632,7 +8632,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -8642,17 +8642,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:preserveIconSpacing
+          @attr name heritageWalks.HeritageWalks:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:subMenuArrow
+          @attr name heritageWalks.HeritageWalks:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -8664,13 +8664,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation HeritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout HeritageWalks.HeritageWalks:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground HeritageWalks.HeritageWalks:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint HeritageWalks.HeritageWalks:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance HeritageWalks.HeritageWalks:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor HeritageWalks.HeritageWalks:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu HeritageWalks.HeritageWalks:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation heritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout heritageWalks.HeritageWalks:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground heritageWalks.HeritageWalks:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint heritageWalks.HeritageWalks:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance heritageWalks.HeritageWalks:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor heritageWalks.HeritageWalks:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu heritageWalks.HeritageWalks:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8707,7 +8707,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#elevation}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8719,31 +8719,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:elevation
+          @attr name heritageWalks.HeritageWalks:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:headerLayout
+          @attr name heritageWalks.HeritageWalks:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:itemBackground
+          @attr name heritageWalks.HeritageWalks:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8754,21 +8754,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:itemIconTint
+          @attr name heritageWalks.HeritageWalks:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:itemTextAppearance
+          @attr name heritageWalks.HeritageWalks:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8779,17 +8779,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:itemTextColor
+          @attr name heritageWalks.HeritageWalks:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#menu}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:menu
+          @attr name heritageWalks.HeritageWalks:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -8800,7 +8800,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor HeritageWalks.HeritageWalks:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor heritageWalks.HeritageWalks:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8822,7 +8822,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8832,7 +8832,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:overlapAnchor
+          @attr name heritageWalks.HeritageWalks:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8841,7 +8841,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor HeritageWalks.HeritageWalks:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor heritageWalks.HeritageWalks:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8849,7 +8849,7 @@ containing a value of this type.
             0x7f0100d7
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8859,7 +8859,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:state_above_anchor
+          @attr name heritageWalks.HeritageWalks:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8868,8 +8868,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons HeritageWalks.HeritageWalks:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle HeritageWalks.HeritageWalks:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons heritageWalks.HeritageWalks:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle heritageWalks.HeritageWalks:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8878,7 +8878,7 @@ containing a value of this type.
             0x7f0100d8, 0x7f0100d9
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8890,11 +8890,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:paddingBottomNoButtons
+          @attr name heritageWalks.HeritageWalks:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8906,7 +8906,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:paddingTopNoTitle
+          @attr name heritageWalks.HeritageWalks:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8917,10 +8917,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager HeritageWalks.HeritageWalks:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout HeritageWalks.HeritageWalks:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount HeritageWalks.HeritageWalks:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd HeritageWalks.HeritageWalks:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager heritageWalks.HeritageWalks:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout heritageWalks.HeritageWalks:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount heritageWalks.HeritageWalks:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd heritageWalks.HeritageWalks:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8946,7 +8946,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8956,11 +8956,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:layoutManager
+          @attr name heritageWalks.HeritageWalks:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8970,11 +8970,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:reverseLayout
+          @attr name heritageWalks.HeritageWalks:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8984,11 +8984,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:spanCount
+          @attr name heritageWalks.HeritageWalks:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8998,7 +8998,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:stackFromEnd
+          @attr name heritageWalks.HeritageWalks:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -9007,7 +9007,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground HeritageWalks.HeritageWalks:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground heritageWalks.HeritageWalks:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -9015,7 +9015,7 @@ containing a value of this type.
             0x7f010139
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -9023,7 +9023,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name HeritageWalks.HeritageWalks:insetForeground
+          @attr name heritageWalks.HeritageWalks:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -9032,7 +9032,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop HeritageWalks.HeritageWalks:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop heritageWalks.HeritageWalks:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -9040,7 +9040,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01013a
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -9052,7 +9052,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:behavior_overlapTop
+          @attr name heritageWalks.HeritageWalks:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -9065,19 +9065,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon HeritageWalks.HeritageWalks:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon HeritageWalks.HeritageWalks:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint HeritageWalks.HeritageWalks:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon HeritageWalks.HeritageWalks:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault HeritageWalks.HeritageWalks:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout HeritageWalks.HeritageWalks:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground HeritageWalks.HeritageWalks:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint HeritageWalks.HeritageWalks:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon HeritageWalks.HeritageWalks:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon HeritageWalks.HeritageWalks:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground HeritageWalks.HeritageWalks:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout HeritageWalks.HeritageWalks:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon HeritageWalks.HeritageWalks:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon heritageWalks.HeritageWalks:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon heritageWalks.HeritageWalks:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint heritageWalks.HeritageWalks:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon heritageWalks.HeritageWalks:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault heritageWalks.HeritageWalks:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout heritageWalks.HeritageWalks:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground heritageWalks.HeritageWalks:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint heritageWalks.HeritageWalks:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon heritageWalks.HeritageWalks:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon heritageWalks.HeritageWalks:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground heritageWalks.HeritageWalks:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout heritageWalks.HeritageWalks:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon heritageWalks.HeritageWalks:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -9129,27 +9129,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:closeIcon
+          @attr name heritageWalks.HeritageWalks:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:commitIcon
+          @attr name heritageWalks.HeritageWalks:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9159,21 +9159,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:defaultQueryHint
+          @attr name heritageWalks.HeritageWalks:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:goIcon
+          @attr name heritageWalks.HeritageWalks:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9183,31 +9183,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:iconifiedByDefault
+          @attr name heritageWalks.HeritageWalks:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#layout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:layout
+          @attr name heritageWalks.HeritageWalks:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:queryBackground
+          @attr name heritageWalks.HeritageWalks:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9217,57 +9217,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:queryHint
+          @attr name heritageWalks.HeritageWalks:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:searchHintIcon
+          @attr name heritageWalks.HeritageWalks:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:searchIcon
+          @attr name heritageWalks.HeritageWalks:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:submitBackground
+          @attr name heritageWalks.HeritageWalks:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:suggestionRowLayout
+          @attr name heritageWalks.HeritageWalks:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:voiceIcon
+          @attr name heritageWalks.HeritageWalks:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SignInButton.
@@ -9276,9 +9276,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SignInButton_buttonSize HeritageWalks.HeritageWalks:buttonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_colorScheme HeritageWalks.HeritageWalks:colorScheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_scopeUris HeritageWalks.HeritageWalks:scopeUris}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_buttonSize heritageWalks.HeritageWalks:buttonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_colorScheme heritageWalks.HeritageWalks:colorScheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_scopeUris heritageWalks.HeritageWalks:scopeUris}</code></td><td></td></tr>
            </table>
            @see #SignInButton_buttonSize
            @see #SignInButton_colorScheme
@@ -9288,7 +9288,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001a, 0x7f01001b, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonSize}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonSize}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -9304,11 +9304,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>wide</code></td><td>1</td><td></td></tr>
 <tr><td><code>icon_only</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:buttonSize
+          @attr name heritageWalks.HeritageWalks:buttonSize
         */
         public static final int SignInButton_buttonSize = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#colorScheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#colorScheme}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -9324,18 +9324,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>auto</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:colorScheme
+          @attr name heritageWalks.HeritageWalks:colorScheme
         */
         public static final int SignInButton_colorScheme = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#scopeUris}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#scopeUris}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name HeritageWalks.HeritageWalks:scopeUris
+          @attr name heritageWalks.HeritageWalks:scopeUris
         */
         public static final int SignInButton_scopeUris = 2;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9345,8 +9345,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation HeritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth HeritageWalks.HeritageWalks:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation heritageWalks.HeritageWalks:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth heritageWalks.HeritageWalks:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9362,7 +9362,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#elevation}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9374,11 +9374,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:elevation
+          @attr name heritageWalks.HeritageWalks:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9390,7 +9390,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:maxActionInlineWidth
+          @attr name heritageWalks.HeritageWalks:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -9403,7 +9403,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme HeritageWalks.HeritageWalks:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme heritageWalks.HeritageWalks:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -9440,13 +9440,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:popupTheme
+          @attr name heritageWalks.HeritageWalks:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -9458,17 +9458,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText HeritageWalks.HeritageWalks:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack HeritageWalks.HeritageWalks:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth HeritageWalks.HeritageWalks:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding HeritageWalks.HeritageWalks:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance HeritageWalks.HeritageWalks:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding HeritageWalks.HeritageWalks:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint HeritageWalks.HeritageWalks:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode HeritageWalks.HeritageWalks:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track HeritageWalks.HeritageWalks:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint HeritageWalks.HeritageWalks:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode HeritageWalks.HeritageWalks:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText heritageWalks.HeritageWalks:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack heritageWalks.HeritageWalks:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth heritageWalks.HeritageWalks:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding heritageWalks.HeritageWalks:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance heritageWalks.HeritageWalks:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding heritageWalks.HeritageWalks:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint heritageWalks.HeritageWalks:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode heritageWalks.HeritageWalks:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track heritageWalks.HeritageWalks:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint heritageWalks.HeritageWalks:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode heritageWalks.HeritageWalks:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -9510,7 +9510,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#showText}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9520,11 +9520,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:showText
+          @attr name heritageWalks.HeritageWalks:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9534,11 +9534,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:splitTrack
+          @attr name heritageWalks.HeritageWalks:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9550,11 +9550,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:switchMinWidth
+          @attr name heritageWalks.HeritageWalks:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9566,21 +9566,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:switchPadding
+          @attr name heritageWalks.HeritageWalks:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:switchTextAppearance
+          @attr name heritageWalks.HeritageWalks:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9592,11 +9592,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:thumbTextPadding
+          @attr name heritageWalks.HeritageWalks:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9607,11 +9607,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:thumbTint
+          @attr name heritageWalks.HeritageWalks:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9628,21 +9628,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:thumbTintMode
+          @attr name heritageWalks.HeritageWalks:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#track}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:track
+          @attr name heritageWalks.HeritageWalks:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9653,11 +9653,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:trackTint
+          @attr name heritageWalks.HeritageWalks:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9674,7 +9674,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:trackTintMode
+          @attr name heritageWalks.HeritageWalks:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9718,22 +9718,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground HeritageWalks.HeritageWalks:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart HeritageWalks.HeritageWalks:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity HeritageWalks.HeritageWalks:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor HeritageWalks.HeritageWalks:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight HeritageWalks.HeritageWalks:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth HeritageWalks.HeritageWalks:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth HeritageWalks.HeritageWalks:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode HeritageWalks.HeritageWalks:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding HeritageWalks.HeritageWalks:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom HeritageWalks.HeritageWalks:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd HeritageWalks.HeritageWalks:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart HeritageWalks.HeritageWalks:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop HeritageWalks.HeritageWalks:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor HeritageWalks.HeritageWalks:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance HeritageWalks.HeritageWalks:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor HeritageWalks.HeritageWalks:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground heritageWalks.HeritageWalks:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart heritageWalks.HeritageWalks:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity heritageWalks.HeritageWalks:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor heritageWalks.HeritageWalks:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight heritageWalks.HeritageWalks:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth heritageWalks.HeritageWalks:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth heritageWalks.HeritageWalks:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode heritageWalks.HeritageWalks:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding heritageWalks.HeritageWalks:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom heritageWalks.HeritageWalks:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd heritageWalks.HeritageWalks:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart heritageWalks.HeritageWalks:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop heritageWalks.HeritageWalks:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor heritageWalks.HeritageWalks:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance heritageWalks.HeritageWalks:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor heritageWalks.HeritageWalks:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9759,17 +9759,17 @@ containing a value of this type.
             0x7f010148, 0x7f010149, 0x7f01014a, 0x7f01014b
         };
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:tabBackground
+          @attr name heritageWalks.HeritageWalks:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9781,11 +9781,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabContentStart
+          @attr name heritageWalks.HeritageWalks:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9798,11 +9798,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:tabGravity
+          @attr name heritageWalks.HeritageWalks:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9813,11 +9813,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabIndicatorColor
+          @attr name heritageWalks.HeritageWalks:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9829,11 +9829,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabIndicatorHeight
+          @attr name heritageWalks.HeritageWalks:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9845,11 +9845,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabMaxWidth
+          @attr name heritageWalks.HeritageWalks:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9861,11 +9861,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabMinWidth
+          @attr name heritageWalks.HeritageWalks:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9878,11 +9878,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:tabMode
+          @attr name heritageWalks.HeritageWalks:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9894,11 +9894,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabPadding
+          @attr name heritageWalks.HeritageWalks:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9910,11 +9910,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabPaddingBottom
+          @attr name heritageWalks.HeritageWalks:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9926,11 +9926,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabPaddingEnd
+          @attr name heritageWalks.HeritageWalks:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9942,11 +9942,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabPaddingStart
+          @attr name heritageWalks.HeritageWalks:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9958,11 +9958,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabPaddingTop
+          @attr name heritageWalks.HeritageWalks:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9973,21 +9973,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabSelectedTextColor
+          @attr name heritageWalks.HeritageWalks:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:tabTextAppearance
+          @attr name heritageWalks.HeritageWalks:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9998,7 +9998,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:tabTextColor
+          @attr name heritageWalks.HeritageWalks:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -10016,7 +10016,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps HeritageWalks.HeritageWalks:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps heritageWalks.HeritageWalks:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -10089,14 +10089,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name HeritageWalks.HeritageWalks:textAllCaps
+          @attr name heritageWalks.HeritageWalks:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -10107,20 +10107,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled HeritageWalks.HeritageWalks:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength HeritageWalks.HeritageWalks:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance HeritageWalks.HeritageWalks:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance HeritageWalks.HeritageWalks:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled HeritageWalks.HeritageWalks:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance HeritageWalks.HeritageWalks:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled HeritageWalks.HeritageWalks:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled HeritageWalks.HeritageWalks:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance HeritageWalks.HeritageWalks:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription HeritageWalks.HeritageWalks:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable HeritageWalks.HeritageWalks:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled HeritageWalks.HeritageWalks:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint HeritageWalks.HeritageWalks:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode HeritageWalks.HeritageWalks:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled heritageWalks.HeritageWalks:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength heritageWalks.HeritageWalks:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance heritageWalks.HeritageWalks:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance heritageWalks.HeritageWalks:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled heritageWalks.HeritageWalks:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance heritageWalks.HeritageWalks:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled heritageWalks.HeritageWalks:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled heritageWalks.HeritageWalks:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance heritageWalks.HeritageWalks:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription heritageWalks.HeritageWalks:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable heritageWalks.HeritageWalks:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled heritageWalks.HeritageWalks:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint heritageWalks.HeritageWalks:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode heritageWalks.HeritageWalks:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -10158,7 +10158,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10168,11 +10168,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:counterEnabled
+          @attr name heritageWalks.HeritageWalks:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10182,31 +10182,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:counterMaxLength
+          @attr name heritageWalks.HeritageWalks:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:counterOverflowTextAppearance
+          @attr name heritageWalks.HeritageWalks:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:counterTextAppearance
+          @attr name heritageWalks.HeritageWalks:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10216,21 +10216,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:errorEnabled
+          @attr name heritageWalks.HeritageWalks:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:errorTextAppearance
+          @attr name heritageWalks.HeritageWalks:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10240,11 +10240,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:hintAnimationEnabled
+          @attr name heritageWalks.HeritageWalks:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10254,21 +10254,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:hintEnabled
+          @attr name heritageWalks.HeritageWalks:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:hintTextAppearance
+          @attr name heritageWalks.HeritageWalks:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10278,21 +10278,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:passwordToggleContentDescription
+          @attr name heritageWalks.HeritageWalks:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:passwordToggleDrawable
+          @attr name heritageWalks.HeritageWalks:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10302,11 +10302,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:passwordToggleEnabled
+          @attr name heritageWalks.HeritageWalks:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10317,11 +10317,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:passwordToggleTint
+          @attr name heritageWalks.HeritageWalks:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10337,7 +10337,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:passwordToggleTintMode
+          @attr name heritageWalks.HeritageWalks:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -10348,33 +10348,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity HeritageWalks.HeritageWalks:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription HeritageWalks.HeritageWalks:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon HeritageWalks.HeritageWalks:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd HeritageWalks.HeritageWalks:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions HeritageWalks.HeritageWalks:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft HeritageWalks.HeritageWalks:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight HeritageWalks.HeritageWalks:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart HeritageWalks.HeritageWalks:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation HeritageWalks.HeritageWalks:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo HeritageWalks.HeritageWalks:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription HeritageWalks.HeritageWalks:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight HeritageWalks.HeritageWalks:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription HeritageWalks.HeritageWalks:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon HeritageWalks.HeritageWalks:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme HeritageWalks.HeritageWalks:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle HeritageWalks.HeritageWalks:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance HeritageWalks.HeritageWalks:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor HeritageWalks.HeritageWalks:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title HeritageWalks.HeritageWalks:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin HeritageWalks.HeritageWalks:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom HeritageWalks.HeritageWalks:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd HeritageWalks.HeritageWalks:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart HeritageWalks.HeritageWalks:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop HeritageWalks.HeritageWalks:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins HeritageWalks.HeritageWalks:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance HeritageWalks.HeritageWalks:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor HeritageWalks.HeritageWalks:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity heritageWalks.HeritageWalks:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription heritageWalks.HeritageWalks:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon heritageWalks.HeritageWalks:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd heritageWalks.HeritageWalks:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions heritageWalks.HeritageWalks:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft heritageWalks.HeritageWalks:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight heritageWalks.HeritageWalks:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart heritageWalks.HeritageWalks:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation heritageWalks.HeritageWalks:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo heritageWalks.HeritageWalks:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription heritageWalks.HeritageWalks:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight heritageWalks.HeritageWalks:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription heritageWalks.HeritageWalks:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon heritageWalks.HeritageWalks:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme heritageWalks.HeritageWalks:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle heritageWalks.HeritageWalks:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance heritageWalks.HeritageWalks:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor heritageWalks.HeritageWalks:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title heritageWalks.HeritageWalks:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin heritageWalks.HeritageWalks:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom heritageWalks.HeritageWalks:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd heritageWalks.HeritageWalks:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart heritageWalks.HeritageWalks:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop heritageWalks.HeritageWalks:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins heritageWalks.HeritageWalks:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance heritageWalks.HeritageWalks:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor heritageWalks.HeritageWalks:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -10429,7 +10429,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10442,11 +10442,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:buttonGravity
+          @attr name heritageWalks.HeritageWalks:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10456,21 +10456,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:collapseContentDescription
+          @attr name heritageWalks.HeritageWalks:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:collapseIcon
+          @attr name heritageWalks.HeritageWalks:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10482,11 +10482,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetEnd
+          @attr name heritageWalks.HeritageWalks:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10498,11 +10498,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetEndWithActions
+          @attr name heritageWalks.HeritageWalks:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10514,11 +10514,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetLeft
+          @attr name heritageWalks.HeritageWalks:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10530,11 +10530,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetRight
+          @attr name heritageWalks.HeritageWalks:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10546,11 +10546,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetStart
+          @attr name heritageWalks.HeritageWalks:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10562,21 +10562,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:contentInsetStartWithNavigation
+          @attr name heritageWalks.HeritageWalks:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#logo}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:logo
+          @attr name heritageWalks.HeritageWalks:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10586,11 +10586,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:logoDescription
+          @attr name heritageWalks.HeritageWalks:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10602,11 +10602,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:maxButtonHeight
+          @attr name heritageWalks.HeritageWalks:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10616,31 +10616,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:navigationContentDescription
+          @attr name heritageWalks.HeritageWalks:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:navigationIcon
+          @attr name heritageWalks.HeritageWalks:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:popupTheme
+          @attr name heritageWalks.HeritageWalks:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10650,21 +10650,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:subtitle
+          @attr name heritageWalks.HeritageWalks:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:subtitleTextAppearance
+          @attr name heritageWalks.HeritageWalks:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10675,11 +10675,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:subtitleTextColor
+          @attr name heritageWalks.HeritageWalks:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#title}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10689,11 +10689,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:title
+          @attr name heritageWalks.HeritageWalks:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10705,11 +10705,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:titleMargin
+          @attr name heritageWalks.HeritageWalks:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10721,11 +10721,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:titleMarginBottom
+          @attr name heritageWalks.HeritageWalks:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10737,11 +10737,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:titleMarginEnd
+          @attr name heritageWalks.HeritageWalks:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10753,11 +10753,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:titleMarginStart
+          @attr name heritageWalks.HeritageWalks:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10769,11 +10769,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:titleMarginTop
+          @attr name heritageWalks.HeritageWalks:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10785,21 +10785,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:titleMargins
+          @attr name heritageWalks.HeritageWalks:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:titleTextAppearance
+          @attr name heritageWalks.HeritageWalks:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10810,7 +10810,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:titleTextColor
+          @attr name heritageWalks.HeritageWalks:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10821,9 +10821,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd HeritageWalks.HeritageWalks:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart HeritageWalks.HeritageWalks:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme HeritageWalks.HeritageWalks:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd heritageWalks.HeritageWalks:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart heritageWalks.HeritageWalks:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme heritageWalks.HeritageWalks:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10848,7 +10848,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10860,11 +10860,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:paddingEnd
+          @attr name heritageWalks.HeritageWalks:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10876,17 +10876,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:paddingStart
+          @attr name heritageWalks.HeritageWalks:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#theme}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name HeritageWalks.HeritageWalks:theme
+          @attr name heritageWalks.HeritageWalks:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10896,8 +10896,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint HeritageWalks.HeritageWalks:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode HeritageWalks.HeritageWalks:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint heritageWalks.HeritageWalks:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode heritageWalks.HeritageWalks:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10913,7 +10913,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10924,11 +10924,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name HeritageWalks.HeritageWalks:backgroundTint
+          @attr name heritageWalks.HeritageWalks:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link HeritageWalks.HeritageWalks.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link heritageWalks.HeritageWalks.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10944,7 +10944,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name HeritageWalks.HeritageWalks:backgroundTintMode
+          @attr name heritageWalks.HeritageWalks:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
