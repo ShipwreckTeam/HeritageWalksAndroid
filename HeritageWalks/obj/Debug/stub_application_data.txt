@@ -1,2 +1,2 @@
 android.app.Application
-HeritageWalks.HeritageWalks
+heritageWalks.HeritageWalks
