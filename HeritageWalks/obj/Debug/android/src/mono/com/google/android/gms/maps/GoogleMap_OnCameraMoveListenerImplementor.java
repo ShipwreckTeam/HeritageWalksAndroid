@@ -17,7 +17,7 @@ public class GoogleMap_OnCameraMoveListenerImplementor
 	}
 
 
-	public GoogleMap_OnCameraMoveListenerImplementor ()
+	public GoogleMap_OnCameraMoveListenerImplementor () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == GoogleMap_OnCameraMoveListenerImplementor.class)

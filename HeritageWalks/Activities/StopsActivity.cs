@@ -58,13 +58,20 @@ namespace HeritageWalks.Activities
         public void SetUpViewPager(ViewPager viewPager)
         {
             TabAdapter adapter = new TabAdapter(SupportFragmentManager);
-            adapter.AddFragment(new StopFragment(), "Walks");
+            adapter.AddFragment(new StopFragment(), "Stops");
             adapter.AddFragment(new MapsFragment(), "Map");
 
-            Bundle args = new Bundle();
-            args.PutString("Trail ID", trailId);
+            Bundle stopArgs = new Bundle();
+            Bundle mapArgs = new Bundle();
+
+            stopArgs.PutString("Trail ID", trailId);
+            mapArgs.PutString("Trail ID", trailId);
+
             var stopFragment = adapter.GetItem(0);
-            stopFragment.Arguments = args;
+            var mapFragment = adapter.GetItem(1);
+
+            stopFragment.Arguments = stopArgs;
+            mapFragment.Arguments = mapArgs;
 
             viewPager.Adapter = adapter;
         }

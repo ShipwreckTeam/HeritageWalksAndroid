@@ -19,7 +19,7 @@ public class MapsFragment
 	}
 
 
-	public MapsFragment ()
+	public MapsFragment () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == MapsFragment.class)

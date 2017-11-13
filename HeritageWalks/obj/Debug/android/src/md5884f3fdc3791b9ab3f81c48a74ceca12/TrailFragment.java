@@ -17,7 +17,7 @@ public class TrailFragment
 	}
 
 
-	public TrailFragment ()
+	public TrailFragment () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == TrailFragment.class)

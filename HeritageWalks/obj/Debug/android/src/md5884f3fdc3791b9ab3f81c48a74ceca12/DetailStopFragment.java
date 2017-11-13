@@ -17,7 +17,7 @@ public class DetailStopFragment
 	}
 
 
-	public DetailStopFragment ()
+	public DetailStopFragment () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == DetailStopFragment.class)

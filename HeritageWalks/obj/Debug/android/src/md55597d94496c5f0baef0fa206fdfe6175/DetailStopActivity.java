@@ -17,7 +17,7 @@ public class DetailStopActivity
 	}
 
 
-	public DetailStopActivity ()
+	public DetailStopActivity () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == DetailStopActivity.class)

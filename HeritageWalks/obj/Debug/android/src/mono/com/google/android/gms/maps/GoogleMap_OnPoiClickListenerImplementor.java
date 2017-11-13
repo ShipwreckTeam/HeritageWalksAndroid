@@ -17,7 +17,7 @@ public class GoogleMap_OnPoiClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnPoiClickListenerImplementor ()
+	public GoogleMap_OnPoiClickListenerImplementor () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == GoogleMap_OnPoiClickListenerImplementor.class)

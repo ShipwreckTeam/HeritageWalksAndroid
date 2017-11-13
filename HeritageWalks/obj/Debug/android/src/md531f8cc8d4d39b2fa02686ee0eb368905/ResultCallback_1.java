@@ -17,7 +17,7 @@ public class ResultCallback_1
 	}
 
 
-	public ResultCallback_1 ()
+	public ResultCallback_1 () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == ResultCallback_1.class)

@@ -17,7 +17,7 @@ public class GoogleMap_OnMyLocationChangeListenerImplementor
 	}
 
 
-	public GoogleMap_OnMyLocationChangeListenerImplementor ()
+	public GoogleMap_OnMyLocationChangeListenerImplementor () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == GoogleMap_OnMyLocationChangeListenerImplementor.class)

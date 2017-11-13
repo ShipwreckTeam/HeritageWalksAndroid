@@ -57,7 +57,7 @@ namespace HeritageWalks
         private void SetUpViewPager(ViewPager viewPager)
         {
             TabAdapter adapter = new TabAdapter(SupportFragmentManager);
-            adapter.AddFragment(new TrailFragment(), "");
+            adapter.AddFragment(new TrailFragment(), "Trails");
 
             viewPager.Adapter = adapter;
         }
