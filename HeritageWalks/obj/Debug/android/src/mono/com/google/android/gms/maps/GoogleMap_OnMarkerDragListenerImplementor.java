@@ -19,7 +19,7 @@ public class GoogleMap_OnMarkerDragListenerImplementor
 	}
 
 
-	public GoogleMap_OnMarkerDragListenerImplementor ()
+	public GoogleMap_OnMarkerDragListenerImplementor () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == GoogleMap_OnMarkerDragListenerImplementor.class)

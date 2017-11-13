@@ -18,7 +18,7 @@ public class StopFragment_RecyclerViewAdapter
 	}
 
 
-	public StopFragment_RecyclerViewAdapter ()
+	public StopFragment_RecyclerViewAdapter () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == StopFragment_RecyclerViewAdapter.class)

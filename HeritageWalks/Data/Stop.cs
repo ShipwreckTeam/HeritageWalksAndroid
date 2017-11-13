@@ -17,8 +17,13 @@ namespace HeritageWalks
         private int stopId;
         private string name;
         private string shortDesc;
+        private string fullDesc;
+        private string location;
+        private string coordX;
+        private string coordY;
         private string built;
-        private int pictureInt;
+        private int image;
+        private string videoURL;
         private int trailId;
 
         public int StopId
@@ -36,15 +41,39 @@ namespace HeritageWalks
             get { return shortDesc; }
             set { shortDesc = value; }
         }
+
+        public string FullDesc
+        {
+            get { return fullDesc; }
+            set { fullDesc = value; }
+        }
+
+        public string Location
+        {
+            get { return location; }
+            set { location = value; }
+        }
+
+        public string CoordX
+        {
+            get { return coordX; }
+            set { coordX = value; }
+        }
+        public string CoordY
+        {
+            get { return coordY; }
+            set { coordY = value; }
+        }
+
         public string Built
         {
             get { return built; }
             set { built = value; }
         }
-        public int PictureInt
+        public int Image
         {
-            get { return pictureInt; }
-            set { pictureInt = value; }
+            get { return image; }
+            set { image = value; }
         }
         public int TrailId
         {

@@ -17,7 +17,7 @@ public class GoogleMap_OnPolygonClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnPolygonClickListenerImplementor ()
+	public GoogleMap_OnPolygonClickListenerImplementor () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == GoogleMap_OnPolygonClickListenerImplementor.class)

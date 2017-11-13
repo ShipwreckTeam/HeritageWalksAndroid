@@ -17,7 +17,7 @@ public class ImageManager_OnImageLoadedListenerImplementor
 	}
 
 
-	public ImageManager_OnImageLoadedListenerImplementor ()
+	public ImageManager_OnImageLoadedListenerImplementor () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == ImageManager_OnImageLoadedListenerImplementor.class)

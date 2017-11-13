@@ -17,7 +17,7 @@ public class AwaitableTaskCompleteListener_1
 	}
 
 
-	public AwaitableTaskCompleteListener_1 ()
+	public AwaitableTaskCompleteListener_1 () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == AwaitableTaskCompleteListener_1.class)

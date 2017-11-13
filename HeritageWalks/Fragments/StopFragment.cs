@@ -93,17 +93,18 @@ namespace HeritageWalks.Fragments
             {
                 var viewHolder = holder as ViewHolder;
 
-                viewHolder.mImageView.SetImageResource(mValues[position].PictureInt);
-                viewHolder.mTxtViewId.Text = mValues[position].StopId.ToString();
+                viewHolder.mImageView.SetImageResource(mValues[position].Image);
+                //viewHolder.mTxtViewId.Text = mValues[position].StopId.ToString();
+                viewHolder.mTxtViewId.Text = (position + 1) + ". ".ToString();
                 viewHolder.mTxtViewName.Text = mValues[position].Name;
                 viewHolder.mTxtViewShortDesc.Text = mValues[position].ShortDesc;
-                viewHolder.mTxtViewBuilt.Text = mValues[position].Built;
+                viewHolder.mTxtViewBuilt.Text = "Built: "  + mValues[position].Built;
             }
 
             public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)
             {
                 View view = LayoutInflater.From(parent.Context).Inflate(Resource.Layout.stop_row, parent, false);
-                return new ViewHolder(view, mTrailId);
+                return new ViewHolder(view, mTrailId, mValues);
             }
         }
 
@@ -116,13 +117,14 @@ namespace HeritageWalks.Fragments
             public TextView mTxtViewShortDesc;
             public TextView mTxtViewBuilt;
 
-            public ViewHolder(View view, String trailId) : base(view)
+            public ViewHolder(View view, String trailId, List<Stop> stopList) : base(view)
             {
                 mView = view;
 
                 mView.Click += (sender, e) =>
                 {
-                    var stopId = Convert.ToInt32(mTxtViewId.Text);
+                    //var stopId = Convert.ToInt32(mTxtViewId.Text);
+                    var stopId = stopList[LayoutPosition].StopId;
                     var context = mView.Context;
                     Intent intent = new Intent(context, typeof(DetailStopActivity));
                     intent.PutExtra("Trail ID", trailId);

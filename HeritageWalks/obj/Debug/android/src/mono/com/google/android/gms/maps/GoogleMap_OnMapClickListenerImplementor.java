@@ -17,7 +17,7 @@ public class GoogleMap_OnMapClickListenerImplementor
 	}
 
 
-	public GoogleMap_OnMapClickListenerImplementor ()
+	public GoogleMap_OnMapClickListenerImplementor () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == GoogleMap_OnMapClickListenerImplementor.class)

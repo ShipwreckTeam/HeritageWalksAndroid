@@ -1,21 +1,19 @@
+using Android.App;
 using Android.OS;
 using Android.Support.V7.Widget;
 using Android.Views;
-using SupportFragment = Android.Support.V4.App.Fragment;
-using System.Collections.Generic;
-using Android.Content;
 using Android.Widget;
-using HeritageWalks.Activities;
-using Android.App;
-using System.Threading.Tasks;
 using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using SupportFragment = Android.Support.V4.App.Fragment;
 
 namespace HeritageWalks.Fragments
 {
     public class DetailStopFragment : SupportFragment
     {
-        private List<DetailStop> mValues = new List<DetailStop>();
-        private List<DetailStop> mDetailStopList = new List<DetailStop>();
+        private List<Stop> mValues = new List<Stop>();
+        private List<Stop> mStopList = new List<Stop>();
         private string mTrailId;
         private string mStopId;
 
@@ -43,15 +41,15 @@ namespace HeritageWalks.Fragments
                 {
                     Activity.RunOnUiThread(async () =>
                     {
-                        mValues = await mData.GetDetailStopsAsync();
+                        mValues = await mData.GetStopsAsync();
                         for (int i = 0; i < mValues.Count; i++)
                         {
                             if (mValues[i].TrailId == Convert.ToInt32(mTrailId) && mValues[i].StopId == Convert.ToInt32(mStopId))
                             {
-                                mDetailStopList.Add(mValues[i]);
+                                mStopList.Add(mValues[i]);
                             }
                         }
-                        mAdapter = new RecyclerViewAdapter(mDetailStopList);
+                        mAdapter = new RecyclerViewAdapter(mStopList);
                         mRecyclerView.SetAdapter(mAdapter);
                         mProgressBar.Hide();
                     });
@@ -68,9 +66,9 @@ namespace HeritageWalks.Fragments
        
         private class RecyclerViewAdapter : RecyclerView.Adapter
         {
-            private List<DetailStop> mValues;
+            private List<Stop> mValues;
 
-            public RecyclerViewAdapter(List<DetailStop> items)
+            public RecyclerViewAdapter(List<Stop> items)
             {
                 mValues = items;
             }
@@ -94,12 +92,11 @@ namespace HeritageWalks.Fragments
             {
                 var viewHolder = holder as ViewHolder;
 
-                viewHolder.mImageView.SetImageResource(mValues[position].StopImage);
-                viewHolder.mTxtViewId.Text = mValues[position].StopId.ToString();
+                viewHolder.mImageView.SetImageResource(mValues[position].Image);
                 viewHolder.mTxtViewName.Text = mValues[position].Name;
-                viewHolder.mTxtViewStopDesc.Text = mValues[position].StopDesc;
-                viewHolder.mTxtViewStopConstruct.Text = mValues[position].StopConstruct;
-                viewHolder.mTxtViewStopLocation.Text = mValues[position].StopLocation;
+                viewHolder.mTxtViewStopDesc.Text = mValues[position].FullDesc;
+                viewHolder.mTxtViewStopConstruct.Text = "Built: " +  mValues[position].Built;
+                viewHolder.mTxtViewStopLocation.Text = "Location: " + mValues[position].Location;
             }
 
             public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)
@@ -129,7 +126,6 @@ namespace HeritageWalks.Fragments
                 };
 
                 mImageView = view.FindViewById<ImageView>(Resource.Id.stop_img);
-                mTxtViewId = view.FindViewById<TextView>(Resource.Id.txtId_detail);
                 mTxtViewName = view.FindViewById<TextView>(Resource.Id.txtName_detail);
                 mTxtViewStopDesc = view.FindViewById<TextView>(Resource.Id.txtStopDesc);
                 mTxtViewStopConstruct = view.FindViewById<TextView>(Resource.Id.txtStopConstruct);

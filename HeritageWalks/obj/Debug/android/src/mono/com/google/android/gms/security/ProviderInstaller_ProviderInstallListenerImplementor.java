@@ -18,7 +18,7 @@ public class ProviderInstaller_ProviderInstallListenerImplementor
 	}
 
 
-	public ProviderInstaller_ProviderInstallListenerImplementor ()
+	public ProviderInstaller_ProviderInstallListenerImplementor () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == ProviderInstaller_ProviderInstallListenerImplementor.class)

@@ -66,32 +66,5 @@ namespace HeritageWalks
             }
             return trailList;
         }
-
-        public async Task<List<DetailStop>> GetDetailStopsAsync()
-        {
-            client.BaseAddress = new Uri("http://heritagetrailsapi.azurewebsites.net");
-            client.DefaultRequestHeaders.Accept.Clear();
-            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            List<DetailStop> detailStopList = new List<DetailStop>();
-
-            try
-            {
-                var response = await client.GetAsync("api/DetailStops");
-
-                var result = await response.Content.ReadAsStringAsync();
-                var detailStopsJson = JsonConvert.DeserializeObject<List<DetailStop>>(result);
-
-                foreach (DetailStop detailStop in detailStopsJson)
-                {
-                    detailStopList.Add(detailStop);
-                }
-                return detailStopList;
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
-            return detailStopList;
-        }
     }
 }

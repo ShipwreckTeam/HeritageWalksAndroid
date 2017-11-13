@@ -15,7 +15,7 @@ public class StopFragment_ViewHolder
 	}
 
 
-	public StopFragment_ViewHolder (android.view.View p0)
+	public StopFragment_ViewHolder (android.view.View p0) throws java.lang.Throwable
 	{
 		super (p0);
 		if (getClass () == StopFragment_ViewHolder.class)
