@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">HeritageWalks</string>
+  <string name ="google_maps_key">AIzaSyAH5pwo0FmZnxNa55fXiWaPxZ1-8HTlkSQ</string>
+  <color name="orange">#ff6600</color>
+  <color name="purple">#944dff</color>
+  <color name="green">#8cff1a</color>
+  <string name="Blurb">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+  <string name="Title">Do you need assistance?</string>
+  <string name="Phone">Please call: 08 9285 4300 from 8am - 5.30pm</string>
+  <string name="Address">Our address is: 308 Stirling Highway Claremont 6010</string>
+</resources>
