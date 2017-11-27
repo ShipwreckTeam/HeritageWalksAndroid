@@ -92,8 +92,9 @@ namespace HeritageWalks.Fragments
             public override void OnBindViewHolder(RecyclerView.ViewHolder holder, int position)
             {
                 var viewHolder = holder as ViewHolder;
+                int imageInt = (int)typeof(Resource.Drawable).GetField(mValues[position].ImageName).GetValue(null);
 
-                viewHolder.mImageView.SetImageResource(mValues[position].Image);
+                viewHolder.mImageView.SetImageResource(imageInt);
                 //viewHolder.mTxtViewId.Text = mValues[position].StopId.ToString();
                 viewHolder.mTxtViewId.Text = (position + 1) + ". ".ToString();
                 viewHolder.mTxtViewName.Text = mValues[position].Name;

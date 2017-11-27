@@ -90,7 +90,7 @@ namespace HeritageWalks.Activities
                     StartActivity(intent);
                     return true;
 
-                case Resource.Id.nav_about:
+                case Resource.Id.nav_help:
                     var intent2 = new Intent(this, typeof(HelpActivity));
                     StartActivity(intent2);
                     return true;

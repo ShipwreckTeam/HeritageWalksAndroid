@@ -9,4 +9,9 @@
   <string name="Title">Do you need assistance?</string>
   <string name="Phone">Please call: 08 9285 4300 from 8am - 5.30pm</string>
   <string name="Address">Our address is: 308 Stirling Highway Claremont 6010</string>
+  <string name="Help">How to use the Heritage Walks App</string>
+  <string name="Step1">Step 1: Select the walk you would like to do by tapping on the name</string>
+  <string name="Step2">Step 2: Make your own way to the first stop that is listed. Use the Map to help you find it!</string>
+  <string name="Step3">Step 3: Tap on the stop to view the address and historical details of this stop.</string>
+  <string name="Step4">Step 4: Enjoy the walk!</string>
 </resources>

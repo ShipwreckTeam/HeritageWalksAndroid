@@ -91,7 +91,9 @@ namespace HeritageWalks.Fragments
                 viewHolder.mTxtViewName.SetBackgroundResource(AssignColour());
                 viewHolder.mTxtViewTime.Text = mValues[position].Time;
                 viewHolder.mTxtViewLength.Text = mValues[position].Length;
-                viewHolder.mImageView.SetImageResource(mValues[position].PictureInt);
+
+                int imageInt = (int)typeof(Resource.Drawable).GetField(mValues[position].ImageName).GetValue(null);
+                viewHolder.mImageView.SetImageResource(imageInt);
             }
 
             public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)

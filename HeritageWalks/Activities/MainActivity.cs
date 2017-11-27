@@ -71,7 +71,7 @@ namespace HeritageWalks
                     _drawerLayout.OpenDrawer((int)GravityFlags.Left);
                     return true;
 
-                case Resource.Id.nav_about:
+                case Resource.Id.nav_help:
                     var intent = new Intent(this, typeof(Activities.HelpActivity));
                     StartActivity(intent);
                     return true;

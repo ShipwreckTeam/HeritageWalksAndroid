@@ -18,7 +18,7 @@ namespace HeritageWalks
         private string name;
         private string time;
         private string length;
-        private int pictureInt;
+        private string imageName;
 
         public int TrailID
         {
@@ -40,10 +40,10 @@ namespace HeritageWalks
             get { return length; }
             set { length = value; }
         }
-        public int PictureInt
+        public string ImageName
         {
-            get { return pictureInt; }
-            set { pictureInt = value; }
+            get { return imageName; }
+            set { imageName = value; }
         }
     }
 }

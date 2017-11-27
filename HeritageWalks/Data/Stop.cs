@@ -22,7 +22,7 @@ namespace HeritageWalks
         private string coordX;
         private string coordY;
         private string built;
-        private int image;
+        private string imageName;
         private string videoURL;
         private int trailId;
 
@@ -70,10 +70,10 @@ namespace HeritageWalks
             get { return built; }
             set { built = value; }
         }
-        public int Image
+        public string ImageName
         {
-            get { return image; }
-            set { image = value; }
+            get { return imageName; }
+            set { imageName = value; }
         }
         public int TrailId
         {
